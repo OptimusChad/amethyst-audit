@@ -1,0 +1,6470 @@
+{
+  "AmethystManifest": true,
+  "info": {
+    "domainName": "cyberpunk2077",
+    "appVersion": "2.6.3",
+    "name": "Project Ultrapunk - 3. Project Ultrapunk - Ultra Quality (16GB+ vram)",
+    "gameName": "Cyberpunk 2077",
+    "exported": "2026-11-15T11:40:18",
+    "totalSize": 10444945542
+  },
+  "mods": [
+    {
+      "name": "Advanced Crash Reporter",
+      "source": {
+        "modId": 34403,
+        "fileId": 178621,
+        "logicalFilename": "Advanced Crash Reporter",
+        "fileSize": 5562750
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.6.0",
+      "category": {
+        "id": 9,
+        "name": "Utilities"
+      }
+    },
+    {
+      "name": "CET 1.38.1 - Game version 2.5",
+      "source": {
+        "modId": 107,
+        "fileId": 168615,
+        "logicalFilename": "CET 1.38.1 - Game version 2.5",
+        "fileSize": 34868963
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.38.1",
+      "category": {
+        "id": 12,
+        "name": "Modders Resources"
+      }
+    },
+    {
+      "name": "RED4ext",
+      "source": {
+        "modId": 2380,
+        "fileId": 176919,
+        "logicalFilename": "RED4ext",
+        "fileSize": 579763
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.31.1",
+      "category": {
+        "id": 12,
+        "name": "Modders Resources"
+      }
+    },
+    {
+      "name": "redscript",
+      "source": {
+        "modId": 1511,
+        "fileId": 167681,
+        "logicalFilename": "redscript",
+        "fileSize": 930413
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "0.5.32",
+      "category": {
+        "id": 12,
+        "name": "Modders Resources"
+      }
+    },
+    {
+      "name": "Codeware",
+      "source": {
+        "modId": 7780,
+        "fileId": 177877,
+        "logicalFilename": "Codeware",
+        "fileSize": 2877016
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.21.4",
+      "category": {
+        "id": 12,
+        "name": "Modders Resources"
+      }
+    },
+    {
+      "name": "TweakXL",
+      "source": {
+        "modId": 4197,
+        "fileId": 177876,
+        "logicalFilename": "TweakXL",
+        "fileSize": 1069269
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.12.2",
+      "category": {
+        "id": 12,
+        "name": "Modders Resources"
+      }
+    },
+    {
+      "name": "ArchiveXL",
+      "source": {
+        "modId": 4198,
+        "fileId": 177875,
+        "logicalFilename": "ArchiveXL",
+        "fileSize": 1077330
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.28.8",
+      "category": {
+        "id": 12,
+        "name": "Modders Resources"
+      }
+    },
+    {
+      "name": "Audioware",
+      "source": {
+        "modId": 12001,
+        "fileId": 170303,
+        "logicalFilename": "Audioware",
+        "fileSize": 1372060
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.11.0",
+      "category": {
+        "id": 12,
+        "name": "Modders Resources"
+      }
+    },
+    {
+      "name": "Input Loader v0.2.6 for 2.50",
+      "source": {
+        "modId": 4575,
+        "fileId": 168737,
+        "logicalFilename": "Input Loader v0.2.6 for 2.50",
+        "fileSize": 497295
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "0.2.6",
+      "category": {
+        "id": 9,
+        "name": "Utilities"
+      }
+    },
+    {
+      "name": "Native Settings UI 1.97",
+      "source": {
+        "modId": 3518,
+        "fileId": 167644,
+        "logicalFilename": "Native Settings UI 1.97",
+        "fileSize": 15021
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.97",
+      "category": {
+        "id": 12,
+        "name": "Modders Resources"
+      }
+    },
+    {
+      "name": "Native Settings UI Side Menu Add-on",
+      "source": {
+        "modId": 16218,
+        "fileId": 168005,
+        "logicalFilename": "Native Settings UI Side Menu Add-on",
+        "fileSize": 35448
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.6.0",
+      "category": {
+        "id": 8,
+        "name": "User Interface"
+      }
+    },
+    {
+      "name": "Mod Settings v0.2.28 for 2.50",
+      "source": {
+        "modId": 4885,
+        "fileId": 177195,
+        "logicalFilename": "Mod Settings v0.2.28 for 2.50",
+        "fileSize": 437205
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "0.2.30",
+      "category": {
+        "id": 8,
+        "name": "User Interface"
+      }
+    },
+    {
+      "name": "RedData",
+      "source": {
+        "modId": 14139,
+        "fileId": 168313,
+        "logicalFilename": "RedData",
+        "fileSize": 259957
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "0.11.0",
+      "category": {
+        "id": 12,
+        "name": "Modders Resources"
+      }
+    },
+    {
+      "name": "RedFileSystem",
+      "source": {
+        "modId": 13378,
+        "fileId": 168316,
+        "logicalFilename": "RedFileSystem",
+        "fileSize": 243270
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "0.16.0",
+      "category": {
+        "id": 12,
+        "name": "Modders Resources"
+      }
+    },
+    {
+      "name": "Cyberware-EX",
+      "source": {
+        "modId": 9429,
+        "fileId": 177646,
+        "logicalFilename": "Cyberware-EX",
+        "fileSize": 17833
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.7.0",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Equipment-EX",
+      "source": {
+        "modId": 6945,
+        "fileId": 177878,
+        "logicalFilename": "Equipment-EX",
+        "fileSize": 69773
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.3.1",
+      "category": {
+        "id": 13,
+        "name": "Appearance"
+      }
+    },
+    {
+      "name": "AudioXL",
+      "source": {
+        "modId": 33442,
+        "fileId": 176259,
+        "logicalFilename": "AudioXL",
+        "fileSize": 933654
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "0.9.4",
+      "category": {
+        "id": 12,
+        "name": "Modders Resources"
+      }
+    },
+    {
+      "name": "REDGraph",
+      "source": {
+        "modId": 34967,
+        "fileId": 168743,
+        "logicalFilename": "REDGraph",
+        "fileSize": 333689
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "0.5.1",
+      "category": {
+        "id": 12,
+        "name": "Modders Resources"
+      }
+    },
+    {
+      "name": "Nova Rain - Ripples",
+      "source": {
+        "modId": 13483,
+        "fileId": 71030,
+        "logicalFilename": "Nova Rain - Ripples",
+        "fileSize": 2600625
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.0.0-ripples",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "Manually Enhanced Rain FX - No Windows",
+      "source": {
+        "modId": 8084,
+        "fileId": 43123,
+        "logicalFilename": "Manually Enhanced Rain FX - No Windows",
+        "fileSize": 70898855
+      },
+      "optional": true,
+      "domainName": "cyberpunk2077",
+      "enabled": false,
+      "version": "1.1hdt-a-nw",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "TheNullifier",
+      "source": {
+        "modId": 23091,
+        "fileId": 175803,
+        "logicalFilename": "TheNullifier",
+        "fileSize": 6363
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.4.8",
+      "category": {
+        "id": 9,
+        "name": "Utilities"
+      }
+    },
+    {
+      "name": "Window Utils",
+      "source": {
+        "modId": 26589,
+        "fileId": 169721,
+        "logicalFilename": "Window Utils",
+        "fileSize": 294871
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.2.2",
+      "category": {
+        "id": 9,
+        "name": "Utilities"
+      }
+    },
+    {
+      "name": "LUTSwitcher",
+      "source": {
+        "modId": 16310,
+        "fileId": 168476,
+        "logicalFilename": "LUTSwitcher",
+        "fileSize": 3570751
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "3.5.0",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "LUT Pack - Nova LUT",
+      "source": {
+        "modId": 16310,
+        "fileId": 154976,
+        "logicalFilename": "LUT Pack - Nova LUT",
+        "fileSize": 62080035
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.4.1n",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "InplaceSectorsNulled",
+      "source": {
+        "modId": 14197,
+        "fileId": 168619,
+        "logicalFilename": "InplaceSectorsNulled",
+        "fileSize": 117753
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "0.14",
+      "category": {
+        "id": 12,
+        "name": "Modders Resources"
+      }
+    },
+    {
+      "name": "Dirt Begone - 1.3.0d - DLSS",
+      "source": {
+        "modId": 8131,
+        "fileId": 81788,
+        "logicalFilename": "Dirt Begone - 1.3.0d - DLSS",
+        "fileSize": 10425451
+      },
+      "optional": true,
+      "domainName": "cyberpunk2077",
+      "enabled": false,
+      "version": "1.3.0d",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "BlurBegone 2.6.0",
+      "source": {
+        "modId": 8105,
+        "fileId": 168960,
+        "logicalFilename": "BlurBegone 2.6.0",
+        "fileSize": 2563105
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.6.0",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "Trash Begone - Bugs",
+      "source": {
+        "modId": 12269,
+        "fileId": 64395,
+        "logicalFilename": "Trash Begone - Bugs",
+        "fileSize": 10156
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.0.0c",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "Trash Begone - Floating Debris",
+      "source": {
+        "modId": 12269,
+        "fileId": 64501,
+        "logicalFilename": "Trash Begone - Floating Debris",
+        "fileSize": 11580
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.1.1b",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "General Shadows Fix",
+      "source": {
+        "modId": 20405,
+        "fileId": 174264,
+        "logicalFilename": "General Shadows Fix",
+        "fileSize": 27891223
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "0.96",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "Preem Fixes - Little China",
+      "source": {
+        "modId": 15800,
+        "fileId": 106365,
+        "logicalFilename": "Preem Fixes - Little China",
+        "fileSize": 2339
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.0.0wlc",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "Preem Fixes - Cloth - HD Textures",
+      "source": {
+        "modId": 15800,
+        "fileId": 82798,
+        "logicalFilename": "Preem Fixes - Cloth - HD Textures",
+        "fileSize": 7452551
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.2.2b",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "ReLUX",
+      "source": {
+        "modId": 20808,
+        "fileId": 175556,
+        "logicalFilename": "ReLUX",
+        "fileSize": 148260
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.2.1",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "ReImagined",
+      "source": {
+        "modId": 25845,
+        "fileId": 170727,
+        "logicalFilename": "ReImagined",
+        "fileSize": 22087
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "0.6.0",
+      "category": {
+        "id": 12,
+        "name": "Modders Resources"
+      }
+    },
+    {
+      "name": "Kiroshi Optics Night Vision Mod 2.1",
+      "source": {
+        "modId": 8326,
+        "fileId": 173238,
+        "logicalFilename": "Kiroshi Optics Night Vision Mod 2.1",
+        "fileSize": 62967
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.1",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Adaptive Traffic Headlights",
+      "source": {
+        "modId": 24020,
+        "fileId": 175586,
+        "logicalFilename": "Adaptive Traffic Headlights",
+        "fileSize": 17055
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.1.4",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Adaptive Traffic Headlights - Nova City config preset",
+      "source": {
+        "modId": 24020,
+        "fileId": 122459,
+        "logicalFilename": "Adaptive Traffic Headlights - Nova City config preset",
+        "fileSize": 2000
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.0.0",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "ReFRACT",
+      "source": {
+        "modId": 34858,
+        "fileId": 171666,
+        "logicalFilename": "ReFRACT",
+        "fileSize": 6054288
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.5.1",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "Exploded Vehicles Smoke Overhaul VFX",
+      "source": {
+        "modId": 23861,
+        "fileId": 173789,
+        "logicalFilename": "Exploded Vehicles Smoke Overhaul VFX",
+        "fileSize": 82860
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.02",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "Burning Tires Black Smoke V1.11",
+      "source": {
+        "modId": 23861,
+        "fileId": 173793,
+        "logicalFilename": "Burning Tires Black Smoke V1.11",
+        "fileSize": 27044
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.11",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "ReLUX Plus (Riders on the Storm)",
+      "source": {
+        "modId": 22129,
+        "fileId": 175609,
+        "logicalFilename": "ReLUX Plus (Riders on the Storm)",
+        "fileSize": 266184
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.1.0",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "Realistic Glass Damage",
+      "source": {
+        "modId": 35569,
+        "fileId": 168071,
+        "logicalFilename": "Realistic Glass Damage",
+        "fileSize": 3052340
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "0.2",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "Erebus fix",
+      "source": {
+        "modId": 22251,
+        "fileId": 112085,
+        "logicalFilename": "Erebus fix",
+        "fileSize": 811
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.0",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "More Occluders (ArchiveXL)",
+      "source": {
+        "modId": 33136,
+        "fileId": 158031,
+        "logicalFilename": "More Occluders (ArchiveXL)",
+        "fileSize": 3944
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "0.4",
+      "category": {
+        "id": 9,
+        "name": "Utilities"
+      }
+    },
+    {
+      "name": "Shift",
+      "source": {
+        "modId": 22340,
+        "fileId": 168897,
+        "logicalFilename": "Shift",
+        "fileSize": 193327
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.14.0",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "RT Contact Shadow Fix For 2.5",
+      "source": {
+        "modId": 35156,
+        "fileId": 168838,
+        "logicalFilename": "RT Contact Shadow Fix For 2.5",
+        "fileSize": 95385
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.0",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "CET Window Manager 2.1.2",
+      "source": {
+        "modId": 18448,
+        "fileId": 168543,
+        "logicalFilename": "CET Window Manager 2.1.2",
+        "fileSize": 55733
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.1.2",
+      "category": {
+        "id": 9,
+        "name": "Utilities"
+      }
+    },
+    {
+      "name": "NPC Actions Fixes",
+      "source": {
+        "modId": 16720,
+        "fileId": 171693,
+        "logicalFilename": "NPC Actions Fixes",
+        "fileSize": 4131
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "0.15",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Visual Effects Fixes",
+      "source": {
+        "modId": 35461,
+        "fileId": 173296,
+        "logicalFilename": "Visual Effects Fixes",
+        "fileSize": 14680375
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "0.2",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "Decals Flickering Fix",
+      "source": {
+        "modId": 16579,
+        "fileId": 170658,
+        "logicalFilename": "Decals Flickering Fix",
+        "fileSize": 946
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "0.3",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "QuestTriggerFixes 1.3 Compatibility",
+      "source": {
+        "modId": 17980,
+        "fileId": 169680,
+        "logicalFilename": "QuestTriggerFixes 1.3 Compatibility",
+        "fileSize": 52596
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.3",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Quickhack Fixes",
+      "source": {
+        "modId": 18290,
+        "fileId": 175450,
+        "logicalFilename": "Quickhack Fixes",
+        "fileSize": 31085
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.3.6",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Immersive Night City Fixes CORE",
+      "source": {
+        "modId": 27040,
+        "fileId": 169648,
+        "logicalFilename": "Immersive Night City Fixes CORE",
+        "fileSize": 14204807
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.5",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "Immersive Night City Fixes",
+      "source": {
+        "modId": 20588,
+        "fileId": 174541,
+        "logicalFilename": "Immersive Night City Fixes",
+        "fileSize": 413652
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "0.37",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "Minor Activities Quest Fixes",
+      "source": {
+        "modId": 27162,
+        "fileId": 174937,
+        "logicalFilename": "Minor Activities Quest Fixes",
+        "fileSize": 89137
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.15.1",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "NCART Train Motion Fixes",
+      "source": {
+        "modId": 24914,
+        "fileId": 174936,
+        "logicalFilename": "NCART Train Motion Fixes",
+        "fileSize": 31103
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.4.1",
+      "category": {
+        "id": 15,
+        "name": "Animations"
+      }
+    },
+    {
+      "name": "Immersion Patch - The Hunt quest missing audio restore",
+      "source": {
+        "modId": 7413,
+        "fileId": 71492,
+        "logicalFilename": "Immersion Patch - The Hunt quest missing audio restore",
+        "fileSize": 3120
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.0.3",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "auto_drive_enhanced",
+      "source": {
+        "modId": 23157,
+        "fileId": 170931,
+        "logicalFilename": "auto_drive_enhanced",
+        "fileSize": 98203
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "0.0.0.22",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Deceptious Bug Fixes",
+      "source": {
+        "modId": 18318,
+        "fileId": 169948,
+        "logicalFilename": "Deceptious Bug Fixes",
+        "fileSize": 3715529
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.4.3",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Deceptious Quest Core",
+      "source": {
+        "modId": 7831,
+        "fileId": 169137,
+        "logicalFilename": "Deceptious Quest Core",
+        "fileSize": 2770666
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "3.3.3",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Cyberarms Stutter Fix (Scripted)",
+      "source": {
+        "modId": 28109,
+        "fileId": 139012,
+        "logicalFilename": "Cyberarms Stutter Fix (Scripted)",
+        "fileSize": 488
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "0.1",
+      "category": {
+        "id": 9,
+        "name": "Utilities"
+      }
+    },
+    {
+      "name": "Bolt Shot FX Reset Fix",
+      "source": {
+        "modId": 19036,
+        "fileId": 168803,
+        "logicalFilename": "Bolt Shot FX Reset Fix",
+        "fileSize": 804
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.1.5",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Database Fixes",
+      "source": {
+        "modId": 10636,
+        "fileId": 168869,
+        "logicalFilename": "Database Fixes",
+        "fileSize": 1065122
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.1.1",
+      "category": {
+        "id": 2,
+        "name": "Miscellaneous"
+      }
+    },
+    {
+      "name": "Stats Bar UI Fix",
+      "source": {
+        "modId": 24925,
+        "fileId": 124339,
+        "logicalFilename": "Stats Bar UI Fix",
+        "fileSize": 1309
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.0-for-2.31",
+      "category": {
+        "id": 8,
+        "name": "User Interface"
+      }
+    },
+    {
+      "name": "RAMbarfix - ModSettings",
+      "source": {
+        "modId": 22503,
+        "fileId": 122042,
+        "logicalFilename": "RAMbarfix - ModSettings",
+        "fileSize": 1402
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.0",
+      "category": {
+        "id": 8,
+        "name": "User Interface"
+      }
+    },
+    {
+      "name": "E3 RAMbarfix-22503-E3",
+      "source": {
+        "modId": 22503,
+        "fileId": 112891,
+        "logicalFilename": "E3 RAMbarfix-22503-E3",
+        "fileSize": 1523
+      },
+      "optional": true,
+      "domainName": "cyberpunk2077",
+      "enabled": false,
+      "version": "E3-1.0",
+      "category": {
+        "id": 8,
+        "name": "User Interface"
+      }
+    },
+    {
+      "name": "Description Revival",
+      "source": {
+        "modId": 28124,
+        "fileId": 170318,
+        "logicalFilename": "Description Revival",
+        "fileSize": 9010
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.0",
+      "category": {
+        "id": 8,
+        "name": "User Interface"
+      }
+    },
+    {
+      "name": "NCME - Core",
+      "source": {
+        "modId": 24453,
+        "fileId": 125216,
+        "logicalFilename": "NCME - Core",
+        "fileSize": 34701
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.1",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "NCME - Commerce",
+      "source": {
+        "modId": 24453,
+        "fileId": 125215,
+        "logicalFilename": "NCME - Commerce",
+        "fileSize": 116138
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.1",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "Who Was That Again",
+      "source": {
+        "modId": 18885,
+        "fileId": 97267,
+        "logicalFilename": "Who Was That Again",
+        "fileSize": 35042929
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.1.1",
+      "category": {
+        "id": 8,
+        "name": "User Interface"
+      }
+    },
+    {
+      "name": "Quickhack Hotkeys",
+      "source": {
+        "modId": 7238,
+        "fileId": 168345,
+        "logicalFilename": "Quickhack Hotkeys",
+        "fileSize": 59377
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.3.3",
+      "category": {
+        "id": 8,
+        "name": "User Interface"
+      }
+    },
+    {
+      "name": "Replace Weapon Mods",
+      "source": {
+        "modId": 15409,
+        "fileId": 168294,
+        "logicalFilename": "Replace Weapon Mods",
+        "fileSize": 7536
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.4",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Untrack Quest Ultimate",
+      "source": {
+        "modId": 6328,
+        "fileId": 172088,
+        "logicalFilename": "Untrack Quest Ultimate",
+        "fileSize": 39493
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "3.6.0",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Immersive Timeskip",
+      "source": {
+        "modId": 5115,
+        "fileId": 168277,
+        "logicalFilename": "Immersive Timeskip",
+        "fileSize": 11824
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.2.3",
+      "category": {
+        "id": 8,
+        "name": "User Interface"
+      }
+    },
+    {
+      "name": "Night City - Cinematic Loading Screens",
+      "source": {
+        "modId": 28338,
+        "fileId": 174780,
+        "logicalFilename": "Night City - Cinematic Loading Screens",
+        "fileSize": 104042054
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.5.1",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "Numerals Get Commas 17160 v1.2.1 2026-10-28T10-15Z LACBAIv5o",
+      "source": {
+        "modId": 17160,
+        "fileId": 169897,
+        "logicalFilename": "Numerals Get Commas 17160 v1.2.1 2026-10-28T10-15Z LACBAIv5o",
+        "fileSize": 6568
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "v1.2.1",
+      "category": {
+        "id": 8,
+        "name": "User Interface"
+      }
+    },
+    {
+      "name": "Real Vendor Names",
+      "source": {
+        "modId": 4941,
+        "fileId": 176904,
+        "logicalFilename": "Real Vendor Names",
+        "fileSize": 1753
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.1.1",
+      "category": {
+        "id": 8,
+        "name": "User Interface"
+      }
+    },
+    {
+      "name": "Splat Physics 12.0 Beta",
+      "source": {
+        "modId": 23539,
+        "fileId": 171129,
+        "logicalFilename": "Splat Physics 12.0 Beta",
+        "fileSize": 22458251
+      },
+      "optional": true,
+      "domainName": "cyberpunk2077",
+      "enabled": false,
+      "version": "12.0.1",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Loot Icons Extension",
+      "source": {
+        "modId": 16386,
+        "fileId": 172192,
+        "logicalFilename": "Loot Icons Extension",
+        "fileSize": 139921
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.60",
+      "category": {
+        "id": 8,
+        "name": "User Interface"
+      }
+    },
+    {
+      "name": "Inventory Adjustments Hub 1.5",
+      "source": {
+        "modId": 19632,
+        "fileId": 172099,
+        "logicalFilename": "Inventory Adjustments Hub 1.5",
+        "fileSize": 929230
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.5",
+      "category": {
+        "id": 8,
+        "name": "User Interface"
+      }
+    },
+    {
+      "name": "Speedbumps Begone",
+      "source": {
+        "modId": 28669,
+        "fileId": 176843,
+        "logicalFilename": "Speedbumps Begone",
+        "fileSize": 990
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.1.0",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "BUICL - Portrait Edition for 2.5",
+      "source": {
+        "modId": 22734,
+        "fileId": 175772,
+        "logicalFilename": "BUICL - Portrait Edition for 2.5",
+        "fileSize": 14529
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "3.1",
+      "category": {
+        "id": 8,
+        "name": "User Interface"
+      }
+    },
+    {
+      "name": "Nova Optics",
+      "source": {
+        "modId": 29190,
+        "fileId": 168673,
+        "logicalFilename": "Nova Optics",
+        "fileSize": 28432
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.4.2",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "Cyberpunk Story Quest Fixes",
+      "source": {
+        "modId": 29152,
+        "fileId": 174938,
+        "logicalFilename": "Cyberpunk Story Quest Fixes",
+        "fileSize": 2763634
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.21.2",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "EpistrophyDelamainDespawnFix 1.21",
+      "source": {
+        "modId": 29851,
+        "fileId": 169487,
+        "logicalFilename": "EpistrophyDelamainDespawnFix 1.21",
+        "fileSize": 165391
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.21",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "CET NPC Body Tweaks with Codeware Extensions",
+      "source": {
+        "modId": 10458,
+        "fileId": 167822,
+        "logicalFilename": "CET NPC Body Tweaks with Codeware Extensions",
+        "fileSize": 16721680
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.2.6",
+      "category": {
+        "id": 13,
+        "name": "Appearance"
+      }
+    },
+    {
+      "name": "Player underwear removal extended CET",
+      "source": {
+        "modId": 4605,
+        "fileId": 177139,
+        "logicalFilename": "Player underwear removal extended CET",
+        "fileSize": 25745
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.3.4",
+      "category": {
+        "id": 13,
+        "name": "Appearance"
+      }
+    },
+    {
+      "name": "Map Nuclear Explosion Fix",
+      "source": {
+        "modId": 23420,
+        "fileId": 167916,
+        "logicalFilename": "Map Nuclear Explosion Fix",
+        "fileSize": 2567
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "0.26",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Window Switcher",
+      "source": {
+        "modId": 30005,
+        "fileId": 169668,
+        "logicalFilename": "Window Switcher",
+        "fileSize": 64709
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.4.0",
+      "category": {
+        "id": 9,
+        "name": "Utilities"
+      }
+    },
+    {
+      "name": "NPC Vehicle Reactions Fixed",
+      "source": {
+        "modId": 19530,
+        "fileId": 176498,
+        "logicalFilename": "NPC Vehicle Reactions Fixed",
+        "fileSize": 524
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.1.0",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Cutscene Weapon Swapper",
+      "source": {
+        "modId": 20743,
+        "fileId": 170536,
+        "logicalFilename": "Cutscene Weapon Swapper",
+        "fileSize": 5054
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.4.2",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "3D World Map Fixed - Return of the Ugly Building",
+      "source": {
+        "modId": 26500,
+        "fileId": 134708,
+        "logicalFilename": "3D World Map Fixed - Return of the Ugly Building",
+        "fileSize": 10755
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.0.0",
+      "category": {
+        "id": 2,
+        "name": "Miscellaneous"
+      }
+    },
+    {
+      "name": "Need More Smoke - Model H",
+      "source": {
+        "modId": 20419,
+        "fileId": 175688,
+        "logicalFilename": "Need More Smoke - Model H",
+        "fileSize": 7934
+      },
+      "optional": true,
+      "domainName": "cyberpunk2077",
+      "enabled": false,
+      "version": "2.5",
+      "category": {
+        "id": 14,
+        "name": "Vehicles"
+      }
+    },
+    {
+      "name": "Sandevistan Activation Bug Fix",
+      "source": {
+        "modId": 30571,
+        "fileId": 172127,
+        "logicalFilename": "Sandevistan Activation Bug Fix",
+        "fileSize": 1209
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.1",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Road Name Sign Colour - All Districts",
+      "source": {
+        "modId": 31297,
+        "fileId": 175211,
+        "logicalFilename": "Road Name Sign Colour - All Districts",
+        "fileSize": 12971
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "3",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "Ladders Improved - Stamina Fix",
+      "source": {
+        "modId": 31318,
+        "fileId": 151410,
+        "logicalFilename": "Ladders Improved - Stamina Fix",
+        "fileSize": 502
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.0StaminaFix",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Orbital Air Traffic Enhanced",
+      "source": {
+        "modId": 31355,
+        "fileId": 170175,
+        "logicalFilename": "Orbital Air Traffic Enhanced",
+        "fileSize": 326033
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.1.2",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "MapWaypointBugFixes",
+      "source": {
+        "modId": 32175,
+        "fileId": 172349,
+        "logicalFilename": "MapWaypointBugFixes",
+        "fileSize": 26669
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.1.1",
+      "category": {
+        "id": 8,
+        "name": "User Interface"
+      }
+    },
+    {
+      "name": "Sound SFX Fixes",
+      "source": {
+        "modId": 20963,
+        "fileId": 169537,
+        "logicalFilename": "Sound SFX Fixes",
+        "fileSize": 8650
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.04",
+      "category": {
+        "id": 4,
+        "name": "Audio"
+      }
+    },
+    {
+      "name": "Filter Saves",
+      "source": {
+        "modId": 3400,
+        "fileId": 170159,
+        "logicalFilename": "Filter Saves",
+        "fileSize": 21798
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.7.1",
+      "category": {
+        "id": 8,
+        "name": "User Interface"
+      }
+    },
+    {
+      "name": "Named Saves",
+      "source": {
+        "modId": 4521,
+        "fileId": 178117,
+        "logicalFilename": "Named Saves",
+        "fileSize": 59193
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.7.2",
+      "category": {
+        "id": 8,
+        "name": "User Interface"
+      }
+    },
+    {
+      "name": "RoadNameSignFixes DLC",
+      "source": {
+        "modId": 32656,
+        "fileId": 175206,
+        "logicalFilename": "RoadNameSignFixes DLC",
+        "fileSize": 256249
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "4",
+      "category": {
+        "id": 16,
+        "name": "Locations"
+      }
+    },
+    {
+      "name": "Better Quality Sort",
+      "source": {
+        "modId": 20267,
+        "fileId": 179096,
+        "logicalFilename": "Better Quality Sort",
+        "fileSize": 6888
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.4.1",
+      "category": {
+        "id": 8,
+        "name": "User Interface"
+      }
+    },
+    {
+      "name": "More Weapon Filters",
+      "source": {
+        "modId": 16565,
+        "fileId": 168622,
+        "logicalFilename": "More Weapon Filters",
+        "fileSize": 12552
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "4.1",
+      "category": {
+        "id": 8,
+        "name": "User Interface"
+      }
+    },
+    {
+      "name": "Stash Search",
+      "source": {
+        "modId": 14264,
+        "fileId": 77762,
+        "logicalFilename": "Stash Search",
+        "fileSize": 1907
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.1.0",
+      "category": {
+        "id": 8,
+        "name": "User Interface"
+      }
+    },
+    {
+      "name": "Radioport Fixes",
+      "source": {
+        "modId": 33838,
+        "fileId": 172441,
+        "logicalFilename": "Radioport Fixes",
+        "fileSize": 10350
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.2.1",
+      "category": {
+        "id": 4,
+        "name": "Audio"
+      }
+    },
+    {
+      "name": "Readable Shards",
+      "source": {
+        "modId": 31789,
+        "fileId": 168827,
+        "logicalFilename": "Readable Shards",
+        "fileSize": 16363
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "5",
+      "category": {
+        "id": 8,
+        "name": "User Interface"
+      }
+    },
+    {
+      "name": "Immersive Explosion Decals",
+      "source": {
+        "modId": 33917,
+        "fileId": 174596,
+        "logicalFilename": "Immersive Explosion Decals",
+        "fileSize": 10009041
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "4",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "Mantis Blades Aerial Takedown Fix - Lethal",
+      "source": {
+        "modId": 34044,
+        "fileId": 161476,
+        "logicalFilename": "Mantis Blades Aerial Takedown Fix - Lethal",
+        "fileSize": 1664
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.0.1",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Traffic Radio Fix",
+      "source": {
+        "modId": 34659,
+        "fileId": 172394,
+        "logicalFilename": "Traffic Radio Fix",
+        "fileSize": 2578
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.0.1",
+      "category": {
+        "id": 4,
+        "name": "Audio"
+      }
+    },
+    {
+      "name": "Viktor Complete Cyberware Inventory Fix",
+      "source": {
+        "modId": 34676,
+        "fileId": 177019,
+        "logicalFilename": "Viktor Complete Cyberware Inventory Fix",
+        "fileSize": 1609
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.1.0",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "AudioPoolFix",
+      "source": {
+        "modId": 34270,
+        "fileId": 167623,
+        "logicalFilename": "AudioPoolFix",
+        "fileSize": 30376
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.0.3",
+      "category": {
+        "id": 4,
+        "name": "Audio"
+      }
+    },
+    {
+      "name": "Crowd Variety Restored",
+      "source": {
+        "modId": 34908,
+        "fileId": 175897,
+        "logicalFilename": "Crowd Variety Restored",
+        "fileSize": 213644
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.0.5",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Crowd Props Restored",
+      "source": {
+        "modId": 35285,
+        "fileId": 168624,
+        "logicalFilename": "Crowd Props Restored",
+        "fileSize": 5776
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.0.2",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Ping",
+      "source": {
+        "modId": 34933,
+        "fileId": 169492,
+        "logicalFilename": "Ping",
+        "fileSize": 30448
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.4.1",
+      "category": {
+        "id": 9,
+        "name": "Utilities"
+      }
+    },
+    {
+      "name": "Audible Traffic Radios",
+      "source": {
+        "modId": 34896,
+        "fileId": 172378,
+        "logicalFilename": "Audible Traffic Radios",
+        "fileSize": 56821
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.1.0",
+      "category": {
+        "id": 4,
+        "name": "Audio"
+      }
+    },
+    {
+      "name": "Say Something Damn It",
+      "source": {
+        "modId": 22228,
+        "fileId": 175084,
+        "logicalFilename": "Say Something Damn It",
+        "fileSize": 236394
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.18.1",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Kerry Romanced Enhanced",
+      "source": {
+        "modId": 4990,
+        "fileId": 144877,
+        "logicalFilename": "Kerry Romanced Enhanced",
+        "fileSize": 445602
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.2.2",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Judy Romanced Enhanced",
+      "source": {
+        "modId": 4508,
+        "fileId": 154298,
+        "logicalFilename": "Judy Romanced Enhanced",
+        "fileSize": 126006
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.4.3",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Panam Romanced Enhanced",
+      "source": {
+        "modId": 4626,
+        "fileId": 170184,
+        "logicalFilename": "Panam Romanced Enhanced",
+        "fileSize": 239632
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.6.3",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Romance Hangouts Enhanced",
+      "source": {
+        "modId": 11590,
+        "fileId": 154068,
+        "logicalFilename": "Romance Hangouts Enhanced",
+        "fileSize": 8982754
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.5.3",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "River Romanced Enhanced",
+      "source": {
+        "modId": 4870,
+        "fileId": 169943,
+        "logicalFilename": "River Romanced Enhanced",
+        "fileSize": 164902
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.7.1",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Really Want To Stay At Your House - Panam",
+      "source": {
+        "modId": 8775,
+        "fileId": 149719,
+        "logicalFilename": "Really Want To Stay At Your House - Panam",
+        "fileSize": 186903
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "3.5.1",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Really Want To Stay At Your House - Judy",
+      "source": {
+        "modId": 8753,
+        "fileId": 147260,
+        "logicalFilename": "Really Want To Stay At Your House - Judy",
+        "fileSize": 303069
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "3.6.0",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Really Want To Stay At Your House - River",
+      "source": {
+        "modId": 8826,
+        "fileId": 147366,
+        "logicalFilename": "Really Want To Stay At Your House - River",
+        "fileSize": 178833
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "3.5.0",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Really Want To Stay At Your House - Kerry",
+      "source": {
+        "modId": 8806,
+        "fileId": 147365,
+        "logicalFilename": "Really Want To Stay At Your House - Kerry",
+        "fileSize": 235947
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "3.5.0",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Romanced Enhanced Showers Feature",
+      "source": {
+        "modId": 23074,
+        "fileId": 115704,
+        "logicalFilename": "Romanced Enhanced Showers Feature",
+        "fileSize": 2377
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.0.0",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Non-Canon Romances Enhanced",
+      "source": {
+        "modId": 20466,
+        "fileId": 149692,
+        "logicalFilename": "Non-Canon Romances Enhanced",
+        "fileSize": 11569129
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.5.1",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Alternative Hair Material",
+      "source": {
+        "modId": 12184,
+        "fileId": 140949,
+        "logicalFilename": "Alternative Hair Material",
+        "fileSize": 518
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "0.31",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "Realistic Moon Textures - 2K",
+      "source": {
+        "modId": 31027,
+        "fileId": 173805,
+        "logicalFilename": "Realistic Moon Textures - 2K",
+        "fileSize": 33954466
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.0.0",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "Cyberpunk Ultra Skin v9.2.1 10490 v9.2.1 2026-08-24T22-48Z UQrhQSyNs",
+      "source": {
+        "modId": 10490,
+        "fileId": 157603,
+        "logicalFilename": "Cyberpunk Ultra Skin v9.2.1 10490 v9.2.1 2026-08-24T22-48Z UQrhQSyNs",
+        "fileSize": 2359
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "v9.2.1",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "DrawDistanceReImagined",
+      "source": {
+        "modId": 27210,
+        "fileId": 175725,
+        "logicalFilename": "DrawDistanceReImagined",
+        "fileSize": 87595
+      },
+      "optional": true,
+      "domainName": "cyberpunk2077",
+      "enabled": false,
+      "version": "0.9.6",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "Not So Good Draw Distance",
+      "source": {
+        "modId": 11240,
+        "fileId": 178443,
+        "logicalFilename": "Not So Good Draw Distance",
+        "fileSize": 34443
+      },
+      "optional": true,
+      "domainName": "cyberpunk2077",
+      "enabled": false,
+      "version": "5.4",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "Always_Best_Quality_Ads For 2.31",
+      "source": {
+        "modId": 12700,
+        "fileId": 175346,
+        "logicalFilename": "Always_Best_Quality_Ads For 2.31",
+        "fileSize": 68635
+      },
+      "optional": true,
+      "domainName": "cyberpunk2077",
+      "enabled": false,
+      "version": "4.1.2.50",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "Improved Vehicle Lights Drawdistance",
+      "source": {
+        "modId": 5082,
+        "fileId": 170713,
+        "logicalFilename": "Improved Vehicle Lights Drawdistance",
+        "fileSize": 902
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.8",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "Ray Traced Lighting Fixes",
+      "source": {
+        "modId": 29720,
+        "fileId": 175816,
+        "logicalFilename": "Ray Traced Lighting Fixes",
+        "fileSize": 70523
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "0.5",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "Cyberpunk Render Tweaks",
+      "source": {
+        "modId": 33943,
+        "fileId": 168747,
+        "logicalFilename": "Cyberpunk Render Tweaks",
+        "fileSize": 10171733
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.0.2",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "LunarPhases",
+      "source": {
+        "modId": 30935,
+        "fileId": 174206,
+        "logicalFilename": "LunarPhases",
+        "fileSize": 2293027
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.0.4",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "Melee Attack Variety",
+      "source": {
+        "modId": 32817,
+        "fileId": 174222,
+        "logicalFilename": "Melee Attack Variety",
+        "fileSize": 3983
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.1.2",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Immersive Rippers",
+      "source": {
+        "modId": 7064,
+        "fileId": 170177,
+        "logicalFilename": "Immersive Rippers",
+        "fileSize": 441887
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.6.2",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Immersive Rippers - Dogtown",
+      "source": {
+        "modId": 10255,
+        "fileId": 170181,
+        "logicalFilename": "Immersive Rippers - Dogtown",
+        "fileSize": 103935
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.3.1",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Quick Weapon Upgrades",
+      "source": {
+        "modId": 33947,
+        "fileId": 168058,
+        "logicalFilename": "Quick Weapon Upgrades",
+        "fileSize": 8027
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.2.0",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Disable W-S Keys To Select Dialog Options",
+      "source": {
+        "modId": 9799,
+        "fileId": 51994,
+        "logicalFilename": "Disable W-S Keys To Select Dialog Options",
+        "fileSize": 725
+      },
+      "optional": false,
+      "phase": 1,
+      "domainName": "cyberpunk2077",
+      "version": "1.0.0",
+      "category": {
+        "id": 8,
+        "name": "User Interface"
+      }
+    },
+    {
+      "name": "Ultrawide UI Overhaul",
+      "source": {
+        "modId": 33193,
+        "fileId": 171552,
+        "logicalFilename": "Ultrawide UI Overhaul",
+        "fileSize": 91767
+      },
+      "optional": true,
+      "domainName": "cyberpunk2077",
+      "enabled": false,
+      "version": "2.5.9",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "Limited HUD",
+      "source": {
+        "modId": 2592,
+        "fileId": 177960,
+        "logicalFilename": "Limited HUD",
+        "fileSize": 106775
+      },
+      "optional": true,
+      "domainName": "cyberpunk2077",
+      "enabled": false,
+      "version": "2.23.2",
+      "category": {
+        "id": 8,
+        "name": "User Interface"
+      }
+    },
+    {
+      "name": "Circlemap Widgets",
+      "source": {
+        "modId": 20416,
+        "fileId": 166205,
+        "logicalFilename": "Circlemap Widgets",
+        "fileSize": 559495
+      },
+      "optional": true,
+      "domainName": "cyberpunk2077",
+      "enabled": false,
+      "version": "3.1.0.1",
+      "category": {
+        "id": 8,
+        "name": "User Interface"
+      }
+    },
+    {
+      "name": "E3 Minimap Widgets",
+      "source": {
+        "modId": 17477,
+        "fileId": 173463,
+        "logicalFilename": "E3 Minimap Widgets",
+        "fileSize": 85001
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "3.3.0.0",
+      "category": {
+        "id": 8,
+        "name": "User Interface"
+      }
+    },
+    {
+      "name": "VTK Vanilla HD - Body",
+      "source": {
+        "modId": 7054,
+        "fileId": 91918,
+        "logicalFilename": "VTK Vanilla HD - Body",
+        "fileSize": 186195213
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "3.4",
+      "category": {
+        "id": 13,
+        "name": "Appearance"
+      }
+    },
+    {
+      "name": "VTK Vanilla HD - Head",
+      "source": {
+        "modId": 7054,
+        "fileId": 91914,
+        "logicalFilename": "VTK Vanilla HD - Head",
+        "fileSize": 39449180
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "3.1",
+      "category": {
+        "id": 13,
+        "name": "Appearance"
+      }
+    },
+    {
+      "name": "VTK_head_Sandevistan_tattoo_Overlay",
+      "source": {
+        "modId": 14568,
+        "fileId": 101897,
+        "logicalFilename": "VTK_head_Sandevistan_tattoo_Overlay",
+        "fileSize": 21952396
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1",
+      "category": {
+        "id": 13,
+        "name": "Appearance"
+      }
+    },
+    {
+      "name": "CyberBody-RE-TYPE7-VTK",
+      "source": {
+        "modId": 15387,
+        "fileId": 81045,
+        "logicalFilename": "CyberBody-RE-TYPE7-VTK",
+        "fileSize": 89183510
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1",
+      "category": {
+        "id": 13,
+        "name": "Appearance"
+      }
+    },
+    {
+      "name": "Casual_Style_Full_Outfit_VTK_small boobs",
+      "source": {
+        "modId": 12846,
+        "fileId": 69940,
+        "logicalFilename": "Casual_Style_Full_Outfit_VTK_small boobs",
+        "fileSize": 135808740
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.0",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Neuralware - Chipware Expansion",
+      "source": {
+        "modId": 19798,
+        "fileId": 172868,
+        "logicalFilename": "Neuralware - Chipware Expansion",
+        "fileSize": 2517073
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.2.4",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "DavidsApogee_ChipwareExpansion",
+      "source": {
+        "modId": 16784,
+        "fileId": 103742,
+        "logicalFilename": "DavidsApogee_ChipwareExpansion",
+        "fileSize": 2030
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "v0.1.0",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "XRX CombatWear Archive XL",
+      "source": {
+        "modId": 21323,
+        "fileId": 158504,
+        "logicalFilename": "XRX CombatWear Archive XL",
+        "fileSize": 27653725
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.2",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "void_Hood",
+      "source": {
+        "modId": 15626,
+        "fileId": 129918,
+        "logicalFilename": "void_Hood",
+        "fileSize": 1168750
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "0.4",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "All Vanilla Clothes Atelier Store-5544-v1",
+      "source": {
+        "modId": 5544,
+        "fileId": 99760,
+        "logicalFilename": "All Vanilla Clothes Atelier Store-5544-v1",
+        "fileSize": 6529
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "v1.0",
+      "category": {
+        "id": 23,
+        "name": "Atelier Shop"
+      }
+    },
+    {
+      "name": "void_Outlander",
+      "source": {
+        "modId": 15098,
+        "fileId": 99737,
+        "logicalFilename": "void_Outlander",
+        "fileSize": 3816618
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "0.7",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "void_Odas_Pants",
+      "source": {
+        "modId": 14704,
+        "fileId": 92077,
+        "logicalFilename": "void_Odas_Pants",
+        "fileSize": 14338706
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.0",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "void_Knife_Holster_Thigh_closefit",
+      "source": {
+        "modId": 11980,
+        "fileId": 84120,
+        "logicalFilename": "void_Knife_Holster_Thigh_closefit",
+        "fileSize": 555027
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "0.5",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "void_Knife_Holster_Thigh_widefit",
+      "source": {
+        "modId": 11980,
+        "fileId": 84119,
+        "logicalFilename": "void_Knife_Holster_Thigh_widefit",
+        "fileSize": 597303
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "0.5",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "void_Atelier_Store",
+      "source": {
+        "modId": 12637,
+        "fileId": 147075,
+        "logicalFilename": "void_Atelier_Store",
+        "fileSize": 19030
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "0.85",
+      "category": {
+        "id": 8,
+        "name": "User Interface"
+      }
+    },
+    {
+      "name": "void_Rogues_Gloves",
+      "source": {
+        "modId": 14573,
+        "fileId": 91891,
+        "logicalFilename": "void_Rogues_Gloves",
+        "fileSize": 538339
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "0.4",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Zenitex Core Dependency",
+      "source": {
+        "modId": 16356,
+        "fileId": 157086,
+        "logicalFilename": "Zenitex Core Dependency",
+        "fileSize": 17677578
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "5.1.8",
+      "category": {
+        "id": 12,
+        "name": "Modders Resources"
+      }
+    },
+    {
+      "name": "Zenitex Covert Leggings",
+      "source": {
+        "modId": 24373,
+        "fileId": 146219,
+        "logicalFilename": "Zenitex Covert Leggings",
+        "fileSize": 7243276
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.3",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Hide Body Parts - Body Toggles",
+      "source": {
+        "modId": 26627,
+        "fileId": 132357,
+        "logicalFilename": "Hide Body Parts - Body Toggles",
+        "fileSize": 105518
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.0",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Zenitex M50 Gas Mask",
+      "source": {
+        "modId": 21307,
+        "fileId": 146067,
+        "logicalFilename": "Zenitex M50 Gas Mask",
+        "fileSize": 18066849
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.1",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Zenitex Armor Pads",
+      "source": {
+        "modId": 12044,
+        "fileId": 149200,
+        "logicalFilename": "Zenitex Armor Pads",
+        "fileSize": 6661029
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "4.1",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Military Ballistic Vest",
+      "source": {
+        "modId": 14348,
+        "fileId": 120252,
+        "logicalFilename": "Military Ballistic Vest",
+        "fileSize": 16980243
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "3.6",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Military Combat Armor",
+      "source": {
+        "modId": 13212,
+        "fileId": 120250,
+        "logicalFilename": "Military Combat Armor",
+        "fileSize": 6486353
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "3.3",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Military Combat Boots",
+      "source": {
+        "modId": 14781,
+        "fileId": 120253,
+        "logicalFilename": "Military Combat Boots",
+        "fileSize": 18448511
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "3.4",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Zenitex Combat Jacket",
+      "source": {
+        "modId": 19119,
+        "fileId": 154674,
+        "logicalFilename": "Zenitex Combat Jacket",
+        "fileSize": 18465753
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.0.1",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Zenitex Combat Pants",
+      "source": {
+        "modId": 20479,
+        "fileId": 154544,
+        "logicalFilename": "Zenitex Combat Pants",
+        "fileSize": 25608481
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.0",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Zenitex Panam Pants",
+      "source": {
+        "modId": 10842,
+        "fileId": 155514,
+        "logicalFilename": "Zenitex Panam Pants",
+        "fileSize": 5699980
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "4.0",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Zenitex Tactical Harness",
+      "source": {
+        "modId": 9774,
+        "fileId": 155814,
+        "logicalFilename": "Zenitex Tactical Harness",
+        "fileSize": 26788413
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "4.0",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "The Zenitex Military Store",
+      "source": {
+        "modId": 21735,
+        "fileId": 129601,
+        "logicalFilename": "The Zenitex Military Store"
+      },
+      "optional": true,
+      "domainName": "cyberpunk2077",
+      "enabled": false,
+      "version": "1.2",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Zenitex Assault Vest",
+      "source": {
+        "modId": 26025,
+        "fileId": 146273,
+        "logicalFilename": "Zenitex Assault Vest",
+        "fileSize": 29992388
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.3",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Zenitex Balaclava Pack",
+      "source": {
+        "modId": 17411,
+        "fileId": 147079,
+        "logicalFilename": "Zenitex Balaclava Pack",
+        "fileSize": 24442994
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.1",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Zenitex Ballistic Mask",
+      "source": {
+        "modId": 12422,
+        "fileId": 147603,
+        "logicalFilename": "Zenitex Ballistic Mask",
+        "fileSize": 9376740
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "4.1",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Zenitex Combat Gloves",
+      "source": {
+        "modId": 19432,
+        "fileId": 147909,
+        "logicalFilename": "Zenitex Combat Gloves",
+        "fileSize": 26168959
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.0.1",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Zenitex Combat Goggles",
+      "source": {
+        "modId": 17049,
+        "fileId": 120261,
+        "logicalFilename": "Zenitex Combat Goggles",
+        "fileSize": 8364838
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.4",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Zenitex Combat Helmet",
+      "source": {
+        "modId": 24094,
+        "fileId": 145151,
+        "logicalFilename": "Zenitex Combat Helmet",
+        "fileSize": 18239700
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.2",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Zenitex Combat T-Shirt",
+      "source": {
+        "modId": 26406,
+        "fileId": 145416,
+        "logicalFilename": "Zenitex Combat T-Shirt",
+        "fileSize": 20173081
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.3",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Zenitex Covert Shoes",
+      "source": {
+        "modId": 23913,
+        "fileId": 124141,
+        "logicalFilename": "Zenitex Covert Shoes",
+        "fileSize": 5694406
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.2",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Zenitex FM12 Respirator",
+      "source": {
+        "modId": 27908,
+        "fileId": 145324,
+        "logicalFilename": "Zenitex FM12 Respirator",
+        "fileSize": 6357335
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.1",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Zenitex Military Backpack",
+      "source": {
+        "modId": 18152,
+        "fileId": 120267,
+        "logicalFilename": "Zenitex Military Backpack",
+        "fileSize": 68727159
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.5",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Zenitex Sleeveless Turtleneck",
+      "source": {
+        "modId": 22082,
+        "fileId": 120286,
+        "logicalFilename": "Zenitex Sleeveless Turtleneck",
+        "fileSize": 15081301
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.2",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Zenitex Stealthsuit",
+      "source": {
+        "modId": 16172,
+        "fileId": 145226,
+        "logicalFilename": "Zenitex Stealthsuit",
+        "fileSize": 63638718
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.0",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Zenitex Underwear",
+      "source": {
+        "modId": 20394,
+        "fileId": 120275,
+        "logicalFilename": "Zenitex Underwear",
+        "fileSize": 14257086
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.5",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Material and Texture Override (REDmod)",
+      "source": {
+        "modId": 5266,
+        "fileId": 49947,
+        "logicalFilename": "Material and Texture Override (REDmod)",
+        "fileSize": 464
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.2",
+      "category": {
+        "id": 9,
+        "name": "Utilities"
+      }
+    },
+    {
+      "name": "Veegee Cyber Mask Pt2",
+      "source": {
+        "modId": 16127,
+        "fileId": 108629,
+        "logicalFilename": "Veegee Cyber Mask Pt2",
+        "fileSize": 9804473
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.1",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Mask and Scarf",
+      "source": {
+        "modId": 16656,
+        "fileId": 87501,
+        "logicalFilename": "Mask and Scarf",
+        "fileSize": 19221749
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.1",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Fingerless Gloves",
+      "source": {
+        "modId": 21426,
+        "fileId": 108757,
+        "logicalFilename": "Fingerless Gloves",
+        "fileSize": 2723295
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.12",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Pirate's Booty Atelier",
+      "source": {
+        "modId": 19874,
+        "fileId": 153878,
+        "logicalFilename": "Pirate's Booty Atelier",
+        "fileSize": 43119
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.1111111",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Armatech MK.1",
+      "source": {
+        "modId": 26071,
+        "fileId": 129425,
+        "logicalFilename": "Armatech MK.1",
+        "fileSize": 119932455
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.2",
+      "category": {
+        "id": 11,
+        "name": "Weapons"
+      }
+    },
+    {
+      "name": "Visual Holsters",
+      "source": {
+        "modId": 21936,
+        "fileId": 169154,
+        "logicalFilename": "Visual Holsters",
+        "fileSize": 22100
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.4",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Veegee Shop 4",
+      "source": {
+        "modId": 30021,
+        "fileId": 177079,
+        "logicalFilename": "Veegee Shop 4",
+        "fileSize": 15566
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.1.4",
+      "category": {
+        "id": 13,
+        "name": "Appearance"
+      }
+    },
+    {
+      "name": "Cyber Hackclaw Outfit",
+      "source": {
+        "modId": 33916,
+        "fileId": 161815,
+        "logicalFilename": "Cyber Hackclaw Outfit",
+        "fileSize": 52539626
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Veegee Shop 3",
+      "source": {
+        "modId": 18890,
+        "fileId": 146593,
+        "logicalFilename": "Veegee Shop 3",
+        "fileSize": 28308
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.5.2",
+      "category": {
+        "id": 13,
+        "name": "Appearance"
+      }
+    },
+    {
+      "name": "raem's atelier store",
+      "source": {
+        "modId": 14210,
+        "fileId": 151536,
+        "logicalFilename": "raem's atelier store",
+        "fileSize": 86714
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.0",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Urban Techwear Outfit - Both V",
+      "source": {
+        "modId": 25512,
+        "fileId": 128648,
+        "logicalFilename": "Urban Techwear Outfit - Both V",
+        "fileSize": 127682451
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.0",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Accessory and Jewelry collection - Main File - AiO",
+      "source": {
+        "modId": 24327,
+        "fileId": 136862,
+        "logicalFilename": "Accessory and Jewelry collection - Main File - AiO",
+        "fileSize": 94038072
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.01",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Judy BD Tuning Gloves - TQ",
+      "source": {
+        "modId": 17843,
+        "fileId": 124137,
+        "logicalFilename": "Judy BD Tuning Gloves - TQ",
+        "fileSize": 6091217
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.2",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Judy BD Tuning Gloves - Stickers - TQ",
+      "source": {
+        "modId": 17843,
+        "fileId": 124138,
+        "logicalFilename": "Judy BD Tuning Gloves - Stickers - TQ",
+        "fileSize": 4438940
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.2",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "TQT Atelier",
+      "source": {
+        "modId": 18095,
+        "fileId": 124145,
+        "logicalFilename": "TQT Atelier",
+        "fileSize": 10654
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.2",
+      "category": {
+        "id": 2,
+        "name": "Miscellaneous"
+      }
+    },
+    {
+      "name": "Veegee X Efgrank Cyborg Skull Mask",
+      "source": {
+        "modId": 15980,
+        "fileId": 108628,
+        "logicalFilename": "Veegee X Efgrank Cyborg Skull Mask",
+        "fileSize": 104494565
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.12",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "void_Techwear_Pants",
+      "source": {
+        "modId": 17519,
+        "fileId": 91279,
+        "logicalFilename": "void_Techwear_Pants",
+        "fileSize": 7329776
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.2",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Tactical Style Outfit Pt3",
+      "source": {
+        "modId": 23301,
+        "fileId": 117278,
+        "logicalFilename": "Tactical Style Outfit Pt3",
+        "fileSize": 132092523
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.01",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "void_Knife_Holster_Torso",
+      "source": {
+        "modId": 15042,
+        "fileId": 107500,
+        "logicalFilename": "void_Knife_Holster_Torso",
+        "fileSize": 390996
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "0.3",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Veegee Shop 2",
+      "source": {
+        "modId": 13870,
+        "fileId": 108963,
+        "logicalFilename": "Veegee Shop 2",
+        "fileSize": 19325
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.3.0",
+      "category": {
+        "id": 13,
+        "name": "Appearance"
+      }
+    },
+    {
+      "name": "Casual Style Outfit Pt4 - Vanilla Arms",
+      "source": {
+        "modId": 14504,
+        "fileId": 76371,
+        "logicalFilename": "Casual Style Outfit Pt4 - Vanilla Arms",
+        "fileSize": 99656936
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.0",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "void_Modular_Harness",
+      "source": {
+        "modId": 16348,
+        "fileId": 86545,
+        "logicalFilename": "void_Modular_Harness",
+        "fileSize": 5672408
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.1",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "void_Claires_Shoulder_Bag",
+      "source": {
+        "modId": 15812,
+        "fileId": 99229,
+        "logicalFilename": "void_Claires_Shoulder_Bag",
+        "fileSize": 5249939
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "0.2",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Veegee Harley Outfit",
+      "source": {
+        "modId": 33195,
+        "fileId": 158497,
+        "logicalFilename": "Veegee Harley Outfit",
+        "fileSize": 99225781
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Maniekk X Vegee Casual Style Outfit Pt5_vanilla_ar",
+      "source": {
+        "modId": 14563,
+        "fileId": 76798,
+        "logicalFilename": "Maniekk X Vegee Casual Style Outfit Pt5_vanilla_ar",
+        "fileSize": 913566902
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.01",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Dave X Veegee Casual Style Full Outfit Pt2",
+      "source": {
+        "modId": 14133,
+        "fileId": 74501,
+        "logicalFilename": "Dave X Veegee Casual Style Full Outfit Pt2",
+        "fileSize": 259249971
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.02",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Virtual Atelier",
+      "source": {
+        "modId": 2987,
+        "fileId": 168466,
+        "logicalFilename": "Virtual Atelier",
+        "fileSize": 388488
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.6.4",
+      "category": {
+        "id": 5,
+        "name": "Characters"
+      }
+    },
+    {
+      "name": "Zenitex Virtual Atelier",
+      "source": {
+        "modId": 10090,
+        "fileId": 158100,
+        "logicalFilename": "Zenitex Virtual Atelier",
+        "fileSize": 18167
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "4.13",
+      "category": {
+        "id": 23,
+        "name": "Atelier Shop"
+      }
+    },
+    {
+      "name": "Dusty Virtual Atelier",
+      "source": {
+        "modId": 14797,
+        "fileId": 178898,
+        "logicalFilename": "Dusty Virtual Atelier",
+        "fileSize": 23535
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "76",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "NC Fashion Virtual Atelier 4805 10.1.k 2026-10-20T17-44Z q7jg7ffio",
+      "source": {
+        "modId": 4805,
+        "fileId": 178578,
+        "logicalFilename": "NC Fashion Virtual Atelier 4805 10.1.k 2026-10-20T17-44Z q7jg7ffio",
+        "fileSize": 64851
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "10.1.m",
+      "category": {
+        "id": 23,
+        "name": "Atelier Shop"
+      }
+    },
+    {
+      "name": "Casual Style Outfit Pt8 Vanilla Arms - Both V",
+      "source": {
+        "modId": 16345,
+        "fileId": 85347,
+        "logicalFilename": "Casual Style Outfit Pt8 Vanilla Arms - Both V",
+        "fileSize": 353021474
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.0",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Casual Style Outfit Pt35",
+      "source": {
+        "modId": 26995,
+        "fileId": 134078,
+        "logicalFilename": "Casual Style Outfit Pt35",
+        "fileSize": 34586782
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.0",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Casual Style Outfit Pt23 - Both V",
+      "source": {
+        "modId": 19684,
+        "fileId": 102167,
+        "logicalFilename": "Casual Style Outfit Pt23 - Both V",
+        "fileSize": 214269397
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.01",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Casual Style Outfit Pt22 - DA",
+      "source": {
+        "modId": 19186,
+        "fileId": 99281,
+        "logicalFilename": "Casual Style Outfit Pt22 - DA",
+        "fileSize": 49987534
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.0",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Casual Style Outfit Pt18 - Main",
+      "source": {
+        "modId": 18352,
+        "fileId": 95214,
+        "logicalFilename": "Casual Style Outfit Pt18 - Main",
+        "fileSize": 542272402
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.0",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Casual Style Outfit Pt11 - Base File",
+      "source": {
+        "modId": 16885,
+        "fileId": 88464,
+        "logicalFilename": "Casual Style Outfit Pt11 - Base File",
+        "fileSize": 440259575
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.0",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "NolaxVeegee_Rough_outfit_FemV",
+      "source": {
+        "modId": 15606,
+        "fileId": 123337,
+        "logicalFilename": "NolaxVeegee_Rough_outfit_FemV",
+        "fileSize": 160155970
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.2",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "NolaXVeegee_feminine_store",
+      "source": {
+        "modId": 11964,
+        "fileId": 82877,
+        "logicalFilename": "NolaXVeegee_feminine_store",
+        "fileSize": 66058
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.2",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "NolaXVeegeeXAquelyras_lethal_outfit_FemV",
+      "source": {
+        "modId": 15867,
+        "fileId": 123333,
+        "logicalFilename": "NolaXVeegeeXAquelyras_lethal_outfit_FemV",
+        "fileSize": 142312044
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.2",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Valby Outfit - Archive XL",
+      "source": {
+        "modId": 16187,
+        "fileId": 84582,
+        "logicalFilename": "Valby Outfit - Archive XL",
+        "fileSize": 157649711
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.0",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Subleader Virtual Atelier",
+      "source": {
+        "modId": 14747,
+        "fileId": 89810,
+        "logicalFilename": "Subleader Virtual Atelier",
+        "fileSize": 9829
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.0",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Novawear Pants - Main File",
+      "source": {
+        "modId": 31328,
+        "fileId": 151521,
+        "logicalFilename": "Novawear Pants - Main File",
+        "fileSize": 15144200
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.0",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Cross Hoodie and Top",
+      "source": {
+        "modId": 26092,
+        "fileId": 167026,
+        "logicalFilename": "Cross Hoodie and Top",
+        "fileSize": 46107061
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.2",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Raetelier 3",
+      "source": {
+        "modId": 25054,
+        "fileId": 141133,
+        "logicalFilename": "Raetelier 3",
+        "fileSize": 14357
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.1",
+      "category": {
+        "id": 23,
+        "name": "Atelier Shop"
+      }
+    },
+    {
+      "name": "Korben's Jacket",
+      "source": {
+        "modId": 27709,
+        "fileId": 166644,
+        "logicalFilename": "Korben's Jacket",
+        "fileSize": 4250850
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.1.0",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "The RVC00N Dumpster 3",
+      "source": {
+        "modId": 25981,
+        "fileId": 174450,
+        "logicalFilename": "The RVC00N Dumpster 3",
+        "fileSize": 1315139
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "21.0.0",
+      "category": {
+        "id": 23,
+        "name": "Atelier Shop"
+      }
+    },
+    {
+      "name": "Jackie's Jacket",
+      "source": {
+        "modId": 31662,
+        "fileId": 152477,
+        "logicalFilename": "Jackie's Jacket",
+        "fileSize": 10223390
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.0.0",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Sandevistan to Wear",
+      "source": {
+        "modId": 19924,
+        "fileId": 103640,
+        "logicalFilename": "Sandevistan to Wear",
+        "fileSize": 10915265
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "V1.4",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Second Amendment Jacket - Vanilla Body (M-F) (GS)",
+      "source": {
+        "modId": 14018,
+        "fileId": 73682,
+        "logicalFilename": "Second Amendment Jacket - Vanilla Body (M-F) (GS)",
+        "fileSize": 4372671
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.0.1",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "The RVC00N Dumpster 2",
+      "source": {
+        "modId": 11171,
+        "fileId": 174464,
+        "logicalFilename": "The RVC00N Dumpster 2",
+        "fileSize": 32965
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "60.0.4",
+      "category": {
+        "id": 2,
+        "name": "Miscellaneous"
+      }
+    },
+    {
+      "name": "707 Tactical Drop Holsters (Update)",
+      "source": {
+        "modId": 11579,
+        "fileId": 70071,
+        "logicalFilename": "707 Tactical Drop Holsters (Update)",
+        "fileSize": 627193
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.1",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "707 Tactical Atelier",
+      "source": {
+        "modId": 11529,
+        "fileId": 167942,
+        "logicalFilename": "707 Tactical Atelier",
+        "fileSize": 26721
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.5",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Calf Knife Holster",
+      "source": {
+        "modId": 17708,
+        "fileId": 91780,
+        "logicalFilename": "Calf Knife Holster",
+        "fileSize": 446878
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.0",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "ReflexIsCool",
+      "source": {
+        "modId": 15963,
+        "fileId": 102307,
+        "logicalFilename": "ReflexIsCool",
+        "fileSize": 1700
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.0.2",
+      "category": {
+        "id": 12,
+        "name": "Modders Resources"
+      }
+    },
+    {
+      "name": "Base Fists and Arm Cyberware Attack Speed Fix",
+      "source": {
+        "modId": 14130,
+        "fileId": 74436,
+        "logicalFilename": "Base Fists and Arm Cyberware Attack Speed Fix",
+        "fileSize": 2421
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.12.2024.04.09",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "DigitalVixenCore",
+      "source": {
+        "modId": 28390,
+        "fileId": 179077,
+        "logicalFilename": "DigitalVixenCore",
+        "fileSize": 2828623
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "4.9.14",
+      "category": {
+        "id": 12,
+        "name": "Modders Resources"
+      }
+    },
+    {
+      "name": "RedFunctions",
+      "source": {
+        "modId": 32312,
+        "fileId": 176262,
+        "logicalFilename": "RedFunctions",
+        "fileSize": 5852727
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "0.16.0",
+      "category": {
+        "id": 12,
+        "name": "Modders Resources"
+      }
+    },
+    {
+      "name": "RedLogger",
+      "source": {
+        "modId": 31920,
+        "fileId": 176263,
+        "logicalFilename": "RedLogger",
+        "fileSize": 185360
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.5.0",
+      "category": {
+        "id": 12,
+        "name": "Modders Resources"
+      }
+    },
+    {
+      "name": "Redscript Config Framework",
+      "source": {
+        "modId": 30726,
+        "fileId": 176270,
+        "logicalFilename": "Redscript Config Framework",
+        "fileSize": 308986
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "3.2.3",
+      "category": {
+        "id": 12,
+        "name": "Modders Resources"
+      }
+    },
+    {
+      "name": "RedWindows",
+      "source": {
+        "modId": 32370,
+        "fileId": 175083,
+        "logicalFilename": "RedWindows",
+        "fileSize": 172243
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.5.1",
+      "category": {
+        "id": 12,
+        "name": "Modders Resources"
+      }
+    },
+    {
+      "name": "BrowserExtensionFramework",
+      "source": {
+        "modId": 10038,
+        "fileId": 121987,
+        "logicalFilename": "BrowserExtensionFramework",
+        "fileSize": 6108
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "0.9.7",
+      "category": {
+        "id": 12,
+        "name": "Modders Resources"
+      }
+    },
+    {
+      "name": "NeuroMultilayerMaterialXtender-2.2.1.zip",
+      "source": {
+        "modId": 5570,
+        "fileId": 114368,
+        "logicalFilename": "NeuroMultilayerMaterialXtender-2.2.1.zip",
+        "fileSize": 28042873
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.2.1",
+      "category": {
+        "id": 12,
+        "name": "Modders Resources"
+      }
+    },
+    {
+      "name": "The Community Palette Project",
+      "source": {
+        "modId": 10437,
+        "fileId": 71181,
+        "logicalFilename": "The Community Palette Project",
+        "fileSize": 3881735
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.1",
+      "category": {
+        "id": 12,
+        "name": "Modders Resources"
+      }
+    },
+    {
+      "name": "Native Interactions Framework 1.1.5",
+      "source": {
+        "modId": 21422,
+        "fileId": 169899,
+        "logicalFilename": "Native Interactions Framework 1.1.5",
+        "fileSize": 361147
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.1.5",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Vendor Search",
+      "source": {
+        "modId": 26188,
+        "fileId": 129579,
+        "logicalFilename": "Vendor Search",
+        "fileSize": 1503
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.0.0",
+      "category": {
+        "id": 8,
+        "name": "User Interface"
+      }
+    },
+    {
+      "name": "Project E3 - HUD-8800-2-31-p2",
+      "source": {
+        "modId": 8800,
+        "fileId": 142752,
+        "logicalFilename": "Project E3 - HUD-8800-2-31-p2",
+        "fileSize": 32840487
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.31.preview",
+      "category": {
+        "id": 8,
+        "name": "User Interface"
+      }
+    },
+    {
+      "name": "Project E3 - UI-13854-2-21-a(NUH UH)",
+      "source": {
+        "modId": 13854,
+        "fileId": 105851,
+        "logicalFilename": "Project E3 - UI-13854-2-21-a(NUH UH)",
+        "fileSize": 74679933
+      },
+      "optional": true,
+      "domainName": "cyberpunk2077",
+      "enabled": false,
+      "version": "2.21.a",
+      "category": {
+        "id": 8,
+        "name": "User Interface"
+      }
+    },
+    {
+      "name": "Project E3 HUD  - E3 UI Scanner compatibility Fix(NOPE)",
+      "source": {
+        "modId": 26257,
+        "fileId": 129974,
+        "logicalFilename": "Project E3 HUD  - E3 UI Scanner compatibility Fix(NOPE)",
+        "fileSize": 841940
+      },
+      "optional": true,
+      "domainName": "cyberpunk2077",
+      "enabled": false,
+      "version": "1.0.1",
+      "category": {
+        "id": 8,
+        "name": "User Interface"
+      }
+    },
+    {
+      "name": "ProjectE3-HUD-Tweaks(Do Not Enable)",
+      "source": {
+        "modId": 23901,
+        "fileId": 150753,
+        "logicalFilename": "ProjectE3-HUD-Tweaks(Do Not Enable)",
+        "fileSize": 383531
+      },
+      "optional": true,
+      "domainName": "cyberpunk2077",
+      "enabled": false,
+      "version": "2.6",
+      "category": {
+        "id": 8,
+        "name": "User Interface"
+      }
+    },
+    {
+      "name": "E3X",
+      "source": {
+        "modId": 32466,
+        "fileId": 156264,
+        "logicalFilename": "E3X",
+        "fileSize": 32635357
+      },
+      "optional": true,
+      "domainName": "cyberpunk2077",
+      "enabled": false,
+      "version": "2.2",
+      "category": {
+        "id": 8,
+        "name": "User Interface"
+      }
+    },
+    {
+      "name": "Project E3HUD-EX",
+      "source": {
+        "modId": 35621,
+        "fileId": 177288,
+        "logicalFilename": "Project E3HUD-EX",
+        "fileSize": 1906782
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.1.0",
+      "category": {
+        "id": 8,
+        "name": "User Interface"
+      }
+    },
+    {
+      "name": "E3QuestCompass",
+      "source": {
+        "modId": 27547,
+        "fileId": 173024,
+        "logicalFilename": "E3QuestCompass",
+        "fileSize": 87650
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.9.0",
+      "category": {
+        "id": 8,
+        "name": "User Interface"
+      }
+    },
+    {
+      "name": "InformativeHealthbar",
+      "source": {
+        "modId": 29625,
+        "fileId": 172985,
+        "logicalFilename": "InformativeHealthbar",
+        "fileSize": 112359
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.15",
+      "category": {
+        "id": 8,
+        "name": "User Interface"
+      }
+    },
+    {
+      "name": "E3 Smart Windows 1.2",
+      "source": {
+        "modId": 7026,
+        "fileId": 132703,
+        "logicalFilename": "E3 Smart Windows 1.2",
+        "fileSize": 633969
+      },
+      "optional": true,
+      "domainName": "cyberpunk2077",
+      "enabled": false,
+      "version": "1.2",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Stock Market and News System 1.4",
+      "source": {
+        "modId": 6319,
+        "fileId": 70083,
+        "logicalFilename": "Stock Market and News System 1.4",
+        "fileSize": 1086234
+      },
+      "optional": true,
+      "domainName": "cyberpunk2077",
+      "enabled": false,
+      "version": "1.4",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "RenderPlaneFix",
+      "source": {
+        "modId": 14783,
+        "fileId": 86468,
+        "logicalFilename": "RenderPlaneFix",
+        "fileSize": 9771
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.3.5",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "FPP Hands Clipping Fix",
+      "source": {
+        "modId": 21913,
+        "fileId": 110909,
+        "logicalFilename": "FPP Hands Clipping Fix",
+        "fileSize": 2104358
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.1",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "Hyst_Refit_ForcedBigBooty",
+      "source": {
+        "modId": 4420,
+        "fileId": 170229,
+        "logicalFilename": "Hyst_Refit_ForcedBigBooty",
+        "fileSize": 183907662
+      },
+      "optional": true,
+      "domainName": "cyberpunk2077",
+      "enabled": false,
+      "version": "4.0.0",
+      "category": {
+        "id": 13,
+        "name": "Appearance"
+      }
+    },
+    {
+      "name": "ALL VANILLA PANTS - SKIRTS - SHORTS FOR THE BIG BOOTY",
+      "source": {
+        "modId": 4424,
+        "fileId": 27205,
+        "logicalFilename": "ALL VANILLA PANTS - SKIRTS - SHORTS FOR THE BIG BOOTY",
+        "fileSize": 12715521
+      },
+      "optional": true,
+      "domainName": "cyberpunk2077",
+      "enabled": false,
+      "version": "1.0",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Borg Malorian",
+      "source": {
+        "modId": 9213,
+        "fileId": 90279,
+        "logicalFilename": "Borg Malorian",
+        "fileSize": 3592
+      },
+      "optional": false,
+      "phase": 1,
+      "domainName": "cyberpunk2077",
+      "version": "1.6.0",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Damage Scaling",
+      "source": {
+        "modId": 1712,
+        "fileId": 141145,
+        "logicalFilename": "Damage Scaling",
+        "fileSize": 29642
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "4.3.0",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "SynthDose",
+      "source": {
+        "modId": 14094,
+        "fileId": 104344,
+        "logicalFilename": "SynthDose",
+        "fileSize": 37612
+      },
+      "optional": false,
+      "phase": 1,
+      "domainName": "cyberpunk2077",
+      "version": "1.3.9",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "React To Horn",
+      "source": {
+        "modId": 16965,
+        "fileId": 89659,
+        "logicalFilename": "React To Horn",
+        "fileSize": 13258
+      },
+      "optional": false,
+      "phase": 1,
+      "domainName": "cyberpunk2077",
+      "version": "1.2.0",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "GLEIPNIR",
+      "source": {
+        "modId": 12695,
+        "fileId": 66740,
+        "logicalFilename": "GLEIPNIR",
+        "fileSize": 1859593
+      },
+      "optional": false,
+      "phase": 1,
+      "domainName": "cyberpunk2077",
+      "version": "1.0.0",
+      "category": {
+        "id": 11,
+        "name": "Weapons"
+      }
+    },
+    {
+      "name": "Damage Scaling and Balance - Extended",
+      "source": {
+        "modId": 21865,
+        "fileId": 172167,
+        "logicalFilename": "Damage Scaling and Balance - Extended",
+        "fileSize": 12216
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "4.1",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Stealthrunner",
+      "source": {
+        "modId": 7616,
+        "fileId": 178596,
+        "logicalFilename": "Stealthrunner",
+        "fileSize": 37995602
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.11.6",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "remove unremovable scopes",
+      "source": {
+        "modId": 9616,
+        "fileId": 176969,
+        "logicalFilename": "remove unremovable scopes",
+        "fileSize": 2547
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.0.0.7",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Plan C",
+      "source": {
+        "modId": 13461,
+        "fileId": 171197,
+        "logicalFilename": "Plan C",
+        "fileSize": 464872
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.52",
+      "category": {
+        "id": 11,
+        "name": "Weapons"
+      }
+    },
+    {
+      "name": "Malorian Arms 3516 - Pre2.0 ADS Speedx1.5",
+      "source": {
+        "modId": 9666,
+        "fileId": 61026,
+        "logicalFilename": "Malorian Arms 3516 - Pre2.0 ADS Speedx1.5",
+        "fileSize": 1187113
+      },
+      "optional": false,
+      "phase": 1,
+      "domainName": "cyberpunk2077",
+      "version": "1.3",
+      "category": {
+        "id": 15,
+        "name": "Animations"
+      }
+    },
+    {
+      "name": "Malorian Arms 3516 - Slide Fix",
+      "source": {
+        "modId": 9666,
+        "fileId": 51470,
+        "logicalFilename": "Malorian Arms 3516 - Slide Fix",
+        "fileSize": 7514
+      },
+      "optional": false,
+      "phase": 1,
+      "domainName": "cyberpunk2077",
+      "version": "1.0",
+      "category": {
+        "id": 15,
+        "name": "Animations"
+      }
+    },
+    {
+      "name": "knifeAnimation",
+      "source": {
+        "modId": 20328,
+        "fileId": 103978,
+        "logicalFilename": "knifeAnimation",
+        "fileSize": 1193571
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.0",
+      "category": {
+        "id": 15,
+        "name": "Animations"
+      }
+    },
+    {
+      "name": "davidsapogee-16784-v2",
+      "source": {
+        "modId": 16784,
+        "fileId": 103772,
+        "logicalFilename": "davidsapogee-16784-v2",
+        "fileSize": 56656
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "v2.25.3",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Black Chrome",
+      "source": {
+        "modId": 16031,
+        "fileId": 168459,
+        "logicalFilename": "Black Chrome",
+        "fileSize": 275168
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.1.150",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "ESDE",
+      "source": {
+        "modId": 33925,
+        "fileId": 176481,
+        "logicalFilename": "ESDE",
+        "fileSize": 37825455
+      },
+      "optional": true,
+      "domainName": "cyberpunk2077",
+      "enabled": false,
+      "version": "4.2.1",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "Mod Configuration Menu",
+      "source": {
+        "modId": 31640,
+        "fileId": 177009,
+        "logicalFilename": "Mod Configuration Menu",
+        "fileSize": 361574
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "0.10.12",
+      "category": {
+        "id": 8,
+        "name": "User Interface"
+      }
+    },
+    {
+      "name": "NCPDRadio_OnFoot-20188-v0",
+      "source": {
+        "modId": 20188,
+        "fileId": 103466,
+        "logicalFilename": "NCPDRadio_OnFoot-20188-v0",
+        "fileSize": 4160
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "v0.2.0",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "XUtils",
+      "source": {
+        "modId": 30296,
+        "fileId": 161029,
+        "logicalFilename": "XUtils",
+        "fileSize": 602649
+      },
+      "optional": true,
+      "domainName": "cyberpunk2077",
+      "enabled": false,
+      "version": "1.0.2",
+      "category": {
+        "id": 9,
+        "name": "Utilities"
+      }
+    },
+    {
+      "name": "Overclocked Lynx Paws",
+      "source": {
+        "modId": 27692,
+        "fileId": 157239,
+        "logicalFilename": "Overclocked Lynx Paws",
+        "fileSize": 71471
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.11.0",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Set Bonuses 2.5.1",
+      "source": {
+        "modId": 8103,
+        "fileId": 172068,
+        "logicalFilename": "Set Bonuses 2.5.1",
+        "fileSize": 12643
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.5.1",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "NueReaver",
+      "source": {
+        "modId": 35073,
+        "fileId": 166698,
+        "logicalFilename": "NueReaver",
+        "fileSize": 68162380
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "3",
+      "category": {
+        "id": 11,
+        "name": "Weapons"
+      }
+    },
+    {
+      "name": "Treason And Defy - Iconic Nue",
+      "source": {
+        "modId": 35856,
+        "fileId": 172660,
+        "logicalFilename": "Treason And Defy - Iconic Nue",
+        "fileSize": 1008673
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "4.0.1",
+      "category": {
+        "id": 11,
+        "name": "Weapons"
+      }
+    },
+    {
+      "name": "Expanded Dual Wielding",
+      "source": {
+        "modId": 35626,
+        "fileId": 171093,
+        "logicalFilename": "Expanded Dual Wielding",
+        "fileSize": 1144954
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "3.7",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Lumen 1.0",
+      "source": {
+        "modId": 35929,
+        "fileId": 168812,
+        "logicalFilename": "Lumen 1.0",
+        "fileSize": 9639
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.0.3",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "(REDMOD) NCA-Lite Low Density 2.3.1",
+      "source": {
+        "modId": 10395,
+        "fileId": 168087,
+        "logicalFilename": "(REDMOD) NCA-Lite Low Density 2.3.1",
+        "fileSize": 385811
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.3.1",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "KiasuBurger Cyberware Core",
+      "source": {
+        "modId": 14948,
+        "fileId": 171877,
+        "logicalFilename": "KiasuBurger Cyberware Core",
+        "fileSize": 143604
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.2.1",
+      "category": {
+        "id": 23,
+        "name": "Atelier Shop"
+      }
+    },
+    {
+      "name": "Cyberware Injector",
+      "source": {
+        "modId": 26363,
+        "fileId": 172666,
+        "logicalFilename": "Cyberware Injector",
+        "fileSize": 17070
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.3.3",
+      "category": {
+        "id": 13,
+        "name": "Appearance"
+      }
+    },
+    {
+      "name": "Kurt Hansen Arms - Required Files",
+      "source": {
+        "modId": 22675,
+        "fileId": 168191,
+        "logicalFilename": "Kurt Hansen Arms - Required Files",
+        "fileSize": 39229431
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.2.0",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Kurt Hansen Arms - 4K Normal Maps",
+      "source": {
+        "modId": 22675,
+        "fileId": 116490,
+        "logicalFilename": "Kurt Hansen Arms - 4K Normal Maps",
+        "fileSize": 50071051
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.1.1",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Decorative Launcher Arms - Required Files",
+      "source": {
+        "modId": 20334,
+        "fileId": 173735,
+        "logicalFilename": "Decorative Launcher Arms - Required Files",
+        "fileSize": 4115859
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.1.0",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Universal Raytraced Player Shadows",
+      "source": {
+        "modId": 16849,
+        "fileId": 156501,
+        "logicalFilename": "Universal Raytraced Player Shadows",
+        "fileSize": 1950
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.0.3",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "Lee Ward Hands - Required Files",
+      "source": {
+        "modId": 16611,
+        "fileId": 106813,
+        "logicalFilename": "Lee Ward Hands - Required Files",
+        "fileSize": 22590052
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.2.0",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Takemura Hand Cyberware",
+      "source": {
+        "modId": 18242,
+        "fileId": 165513,
+        "logicalFilename": "Takemura Hand Cyberware",
+        "fileSize": 52287187
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.0.3",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Netwatch Arms - Required Files",
+      "source": {
+        "modId": 27577,
+        "fileId": 176888,
+        "logicalFilename": "Netwatch Arms - Required Files",
+        "fileSize": 12097930
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.2.3",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "4K Normal Maps (Netwatch Arms)",
+      "source": {
+        "modId": 27577,
+        "fileId": 136175,
+        "logicalFilename": "4K Normal Maps (Netwatch Arms)",
+        "fileSize": 15506323
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.0.0",
+      "category": {
+        "id": 3,
+        "name": "Armour and Clothing"
+      }
+    },
+    {
+      "name": "Atmos2077 1.5.1",
+      "source": {
+        "modId": 35794,
+        "fileId": 178661,
+        "logicalFilename": "Atmos2077 1.5.1",
+        "fileSize": 17921966
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.5.1",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "SG Env",
+      "source": {
+        "modId": 35482,
+        "fileId": 168231,
+        "logicalFilename": "SG Env",
+        "fileSize": 540909
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.2",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "evoLUT Switcher 3 - LUT Pack",
+      "source": {
+        "modId": 16161,
+        "fileId": 159592,
+        "logicalFilename": "evoLUT Switcher 3 - LUT Pack",
+        "fileSize": 20986692
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "5.0",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "evoLUT 5",
+      "source": {
+        "modId": 16161,
+        "fileId": 159594,
+        "logicalFilename": "evoLUT 5",
+        "fileSize": 5426379
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "5.12.1",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "NewGamePlus_1.4.1",
+      "source": {
+        "modId": 15043,
+        "fileId": 168513,
+        "logicalFilename": "NewGamePlus_1.4.1",
+        "fileSize": 4441505
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.4.1",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Praedy's 77 night sky - Moon 8K",
+      "source": {
+        "modId": 19448,
+        "fileId": 100021,
+        "logicalFilename": "Praedy's 77 night sky - Moon 8K",
+        "fileSize": 54051572
+      },
+      "optional": true,
+      "domainName": "cyberpunk2077",
+      "enabled": false,
+      "version": "1.0",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "Flashback Fixer-16236-1-3-fix",
+      "source": {
+        "modId": 16236,
+        "fileId": 113140,
+        "logicalFilename": "Flashback Fixer-16236-1-3-fix",
+        "fileSize": 4397
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.3-fix",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Preem Hair (4K)",
+      "source": {
+        "modId": 8223,
+        "fileId": 167353,
+        "logicalFilename": "Preem Hair (4K)",
+        "fileSize": 96325543
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "3.0.0",
+      "category": {
+        "id": 13,
+        "name": "Appearance"
+      }
+    },
+    {
+      "name": "Cookedprefabs Nulled",
+      "source": {
+        "modId": 4789,
+        "fileId": 49162,
+        "logicalFilename": "Cookedprefabs Nulled",
+        "fileSize": 8668
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.0",
+      "category": {
+        "id": 12,
+        "name": "Modders Resources"
+      }
+    },
+    {
+      "name": "Jab Begone - Scar Tissue",
+      "source": {
+        "modId": 9065,
+        "fileId": 67277,
+        "logicalFilename": "Jab Begone - Scar Tissue",
+        "fileSize": 44710
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.1.0b",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "RayTracedV Reflections And Shadows",
+      "source": {
+        "modId": 36431,
+        "fileId": 175846,
+        "logicalFilename": "RayTracedV Reflections And Shadows",
+        "fileSize": 123745
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.1.1",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "PreHUD Camera V0.7.0 CP2077 2.50",
+      "source": {
+        "modId": 35916,
+        "fileId": 173780,
+        "logicalFilename": "PreHUD Camera V0.7.0 CP2077 2.50",
+        "fileSize": 317989
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "4",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "PreHUD DOF ElevatorHotfix",
+      "source": {
+        "modId": 35916,
+        "fileId": 170236,
+        "logicalFilename": "PreHUD DOF ElevatorHotfix",
+        "fileSize": 3694
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "Pistol Pack 2 - All Guns and Suppressors",
+      "source": {
+        "modId": 17249,
+        "fileId": 89706,
+        "logicalFilename": "Pistol Pack 2 - All Guns and Suppressors",
+        "fileSize": 407878293
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.0",
+      "category": {
+        "id": 11,
+        "name": "Weapons"
+      }
+    },
+    {
+      "name": "Pistol Pack 3 All Weapons and Attachments",
+      "source": {
+        "modId": 22081,
+        "fileId": 111360,
+        "logicalFilename": "Pistol Pack 3 All Weapons and Attachments",
+        "fileSize": 552127151
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.0",
+      "category": {
+        "id": 11,
+        "name": "Weapons"
+      }
+    },
+    {
+      "name": "Mugen - Unique Silenced M 76e Omaha",
+      "source": {
+        "modId": 37096,
+        "fileId": 172916,
+        "logicalFilename": "Mugen - Unique Silenced M 76e Omaha",
+        "fileSize": 366444
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1",
+      "category": {
+        "id": 11,
+        "name": "Weapons"
+      }
+    },
+    {
+      "name": "Crowd Voice Unlocked",
+      "source": {
+        "modId": 36527,
+        "fileId": 177271,
+        "logicalFilename": "Crowd Voice Unlocked",
+        "fileSize": 96438639
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.2.0",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Immersive Voice Distance (2.5) - Quest Full Fade",
+      "source": {
+        "modId": 36809,
+        "fileId": 172410,
+        "logicalFilename": "Immersive Voice Distance (2.5) - Quest Full Fade",
+        "fileSize": 4800420
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.1.1",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Modded Save Loading Screen Fix",
+      "source": {
+        "modId": 35867,
+        "fileId": 171937,
+        "logicalFilename": "Modded Save Loading Screen Fix",
+        "fileSize": 1245
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.0.1",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Climb Anywhere",
+      "source": {
+        "modId": 32884,
+        "fileId": 158279,
+        "logicalFilename": "Climb Anywhere",
+        "fileSize": 2452
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.0.3",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Vault Anywhere",
+      "source": {
+        "modId": 33018,
+        "fileId": 164675,
+        "logicalFilename": "Vault Anywhere",
+        "fileSize": 4969
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.1.0",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Step Up Anywhere",
+      "source": {
+        "modId": 33052,
+        "fileId": 166582,
+        "logicalFilename": "Step Up Anywhere",
+        "fileSize": 7836
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.1.2",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "V For Vibrant",
+      "source": {
+        "modId": 30658,
+        "fileId": 168256,
+        "logicalFilename": "V For Vibrant",
+        "fileSize": 9412
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.2.0",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "V Voice Framework",
+      "source": {
+        "modId": 30646,
+        "fileId": 168255,
+        "logicalFilename": "V Voice Framework",
+        "fileSize": 1240181
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.5.0",
+      "category": {
+        "id": 12,
+        "name": "Modders Resources"
+      }
+    },
+    {
+      "name": "QuickMelee Sandevistan Fix",
+      "source": {
+        "modId": 29636,
+        "fileId": 168368,
+        "logicalFilename": "QuickMelee Sandevistan Fix",
+        "fileSize": 584
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.2",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Sandevistan Helper",
+      "source": {
+        "modId": 29404,
+        "fileId": 145114,
+        "logicalFilename": "Sandevistan Helper",
+        "fileSize": 1215
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1",
+      "category": {
+        "id": 12,
+        "name": "Modders Resources"
+      }
+    },
+    {
+      "name": "Extra Stats",
+      "source": {
+        "modId": 29404,
+        "fileId": 145115,
+        "logicalFilename": "Extra Stats",
+        "fileSize": 838
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.01",
+      "category": {
+        "id": 12,
+        "name": "Modders Resources"
+      }
+    },
+    {
+      "name": "Sandevistan Tech Charge Fix",
+      "source": {
+        "modId": 29560,
+        "fileId": 154212,
+        "logicalFilename": "Sandevistan Tech Charge Fix",
+        "fileSize": 1196
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.02",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Sandevistan Aiming Blocked Fix",
+      "source": {
+        "modId": 29636,
+        "fileId": 145256,
+        "logicalFilename": "Sandevistan Aiming Blocked Fix",
+        "fileSize": 691
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Respect Your Weapon",
+      "source": {
+        "modId": 27287,
+        "fileId": 169815,
+        "logicalFilename": "Respect Your Weapon",
+        "fileSize": 6566
+      },
+      "optional": true,
+      "domainName": "cyberpunk2077",
+      "enabled": false,
+      "version": "2.2.2",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "RagdollPunk Full",
+      "source": {
+        "modId": 34965,
+        "fileId": 176521,
+        "logicalFilename": "RagdollPunk Full",
+        "fileSize": 193231
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.1.5",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "RelentlessLiveDismember",
+      "source": {
+        "modId": 35703,
+        "fileId": 178068,
+        "logicalFilename": "RelentlessLiveDismember",
+        "fileSize": 3461566
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.1.2",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "GoreRunner",
+      "source": {
+        "modId": 24210,
+        "fileId": 177783,
+        "logicalFilename": "GoreRunner",
+        "fileSize": 795115578
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.2",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "CinematicImpactFX Settings 0.8.4",
+      "source": {
+        "modId": 36631,
+        "fileId": 176324,
+        "logicalFilename": "CinematicImpactFX Settings 0.8.4",
+        "fileSize": 46779666
+      },
+      "optional": true,
+      "domainName": "cyberpunk2077",
+      "enabled": false,
+      "version": "0.8.4",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "Immersive Third Person - Best Of Both Worlds V2",
+      "source": {
+        "modId": 32203,
+        "fileId": 168720,
+        "logicalFilename": "Immersive Third Person - Best Of Both Worlds V2",
+        "fileSize": 1255910826
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.0.1",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "True First Person Camera 2.0",
+      "source": {
+        "modId": 30558,
+        "fileId": 176269,
+        "logicalFilename": "True First Person Camera 2.0",
+        "fileSize": 605046
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "9.1.1",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "ITP TFPC Compatibility Fix",
+      "source": {
+        "modId": 33471,
+        "fileId": 179100,
+        "logicalFilename": "ITP TFPC Compatibility Fix",
+        "fileSize": 93635
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.3.7",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Showerpunk2077",
+      "source": {
+        "modId": 37432,
+        "fileId": 178674,
+        "logicalFilename": "Showerpunk2077",
+        "fileSize": 34215560
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.2.1",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "Audio Tool For Mod Settings 0.2.3 (2.5)",
+      "source": {
+        "modId": 36110,
+        "fileId": 170664,
+        "logicalFilename": "Audio Tool For Mod Settings 0.2.3 (2.5)",
+        "fileSize": 275079
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "4",
+      "category": {
+        "id": 9,
+        "name": "Utilities"
+      }
+    },
+    {
+      "name": "Color Picker For Mod Settings 0.1.4 (2.5)",
+      "source": {
+        "modId": 36110,
+        "fileId": 169633,
+        "logicalFilename": "Color Picker For Mod Settings 0.1.4 (2.5)",
+        "fileSize": 5218
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2",
+      "category": {
+        "id": 9,
+        "name": "Utilities"
+      }
+    },
+    {
+      "name": "Judy Romance Messages Mod",
+      "source": {
+        "modId": 4465,
+        "fileId": 177026,
+        "logicalFilename": "Judy Romance Messages Mod",
+        "fileSize": 8802006
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "4.0.7",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Judy Flirts on Dates",
+      "source": {
+        "modId": 13690,
+        "fileId": 171757,
+        "logicalFilename": "Judy Flirts on Dates",
+        "fileSize": 3098994
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.2",
+      "category": {
+        "id": 4,
+        "name": "Audio"
+      }
+    },
+    {
+      "name": "Dark Future",
+      "source": {
+        "modId": 16300,
+        "fileId": 168398,
+        "logicalFilename": "Dark Future",
+        "fileSize": 98620271
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "3.0.0-for-2.5",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Dynamic Gravity Modifier 2.0",
+      "source": {
+        "modId": 13986,
+        "fileId": 150491,
+        "logicalFilename": "Dynamic Gravity Modifier 2.0",
+        "fileSize": 21423
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.31.3",
+      "category": {
+        "id": 14,
+        "name": "Vehicles"
+      }
+    },
+    {
+      "name": "Nulled Angle Correction",
+      "source": {
+        "modId": 14454,
+        "fileId": 168935,
+        "logicalFilename": "Nulled Angle Correction",
+        "fileSize": 1227
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.5",
+      "category": {
+        "id": 14,
+        "name": "Vehicles"
+      }
+    },
+    {
+      "name": "Better Bike Overhaul",
+      "source": {
+        "modId": 7384,
+        "fileId": 56118,
+        "logicalFilename": "Better Bike Overhaul",
+        "fileSize": 1267
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.03",
+      "category": {
+        "id": 14,
+        "name": "Vehicles"
+      }
+    },
+    {
+      "name": "Cyber Drift 2.0 for game ver. 2.31",
+      "source": {
+        "modId": 8306,
+        "fileId": 150902,
+        "logicalFilename": "Cyber Drift 2.0 for game ver. 2.31",
+        "fileSize": 5030
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.31",
+      "category": {
+        "id": 14,
+        "name": "Vehicles"
+      }
+    },
+    {
+      "name": "Baby Driver V2.0",
+      "source": {
+        "modId": 4999,
+        "fileId": 49766,
+        "logicalFilename": "Baby Driver V2.0",
+        "fileSize": 849
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.0",
+      "category": {
+        "id": 14,
+        "name": "Vehicles"
+      }
+    },
+    {
+      "name": "True Grip All in One",
+      "source": {
+        "modId": 17209,
+        "fileId": 97183,
+        "logicalFilename": "True Grip All in One",
+        "fileSize": 1064
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.0",
+      "category": {
+        "id": 14,
+        "name": "Vehicles"
+      }
+    },
+    {
+      "name": "Slope Traction Factor 2.31",
+      "source": {
+        "modId": 18706,
+        "fileId": 144692,
+        "logicalFilename": "Slope Traction Factor 2.31",
+        "fileSize": 49130
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.31",
+      "category": {
+        "id": 14,
+        "name": "Vehicles"
+      }
+    },
+    {
+      "name": "Limited Slip Differential",
+      "source": {
+        "modId": 19095,
+        "fileId": 101156,
+        "logicalFilename": "Limited Slip Differential",
+        "fileSize": 10480
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.21.2",
+      "category": {
+        "id": 14,
+        "name": "Vehicles"
+      }
+    },
+    {
+      "name": "Dynamic Downforce - Model R",
+      "source": {
+        "modId": 12841,
+        "fileId": 148178,
+        "logicalFilename": "Dynamic Downforce - Model R",
+        "fileSize": 4600
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.31",
+      "category": {
+        "id": 14,
+        "name": "Vehicles"
+      }
+    },
+    {
+      "name": "Semi-automatic Transmission",
+      "source": {
+        "modId": 8016,
+        "fileId": 103085,
+        "logicalFilename": "Semi-automatic Transmission",
+        "fileSize": 2120
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.21",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Sit Anywhere 1.4",
+      "source": {
+        "modId": 7299,
+        "fileId": 126672,
+        "logicalFilename": "Sit Anywhere 1.4",
+        "fileSize": 252391
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.4",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Lean Anywhere 1.1",
+      "source": {
+        "modId": 9938,
+        "fileId": 126673,
+        "logicalFilename": "Lean Anywhere 1.1",
+        "fileSize": 93260
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.1",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Fighting Gangs Allowed - Reasonable Police",
+      "source": {
+        "modId": 19189,
+        "fileId": 98549,
+        "logicalFilename": "Fighting Gangs Allowed - Reasonable Police",
+        "fileSize": 1159
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.0",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "They Will Remember",
+      "source": {
+        "modId": 19747,
+        "fileId": 176953,
+        "logicalFilename": "They Will Remember",
+        "fileSize": 5189269
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "3.0.1",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "Better Windows",
+      "source": {
+        "modId": 7160,
+        "fileId": 158333,
+        "logicalFilename": "Better Windows",
+        "fileSize": 50452546
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.1",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "Cyber Vehicle Overhaul - Version 2.1",
+      "source": {
+        "modId": 3016,
+        "fileId": 115046,
+        "logicalFilename": "Cyber Vehicle Overhaul - Version 2.1",
+        "fileSize": 87856
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.1",
+      "category": {
+        "id": 14,
+        "name": "Vehicles"
+      }
+    },
+    {
+      "name": "VolumetricDriftSmoke 1.1",
+      "source": {
+        "modId": 35585,
+        "fileId": 171612,
+        "logicalFilename": "VolumetricDriftSmoke 1.1",
+        "fileSize": 163622
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.1",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "David Sandevistan 1.1 (2.5)",
+      "source": {
+        "modId": 36216,
+        "fileId": 174217,
+        "logicalFilename": "David Sandevistan 1.1 (2.5)",
+        "fileSize": 49926656
+      },
+      "optional": true,
+      "domainName": "cyberpunk2077",
+      "enabled": false,
+      "version": "6",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "RainCamera V1.0.1 CP2077 2.50",
+      "source": {
+        "modId": 35955,
+        "fileId": 173778,
+        "logicalFilename": "RainCamera V1.0.1 CP2077 2.50",
+        "fileSize": 162124
+      },
+      "optional": true,
+      "domainName": "cyberpunk2077",
+      "enabled": false,
+      "version": "1.1.0",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "VehicleGlassRain 0.27 Release CP 2077 V2.5",
+      "source": {
+        "modId": 36341,
+        "fileId": 173821,
+        "logicalFilename": "VehicleGlassRain 0.27 Release CP 2077 V2.5",
+        "fileSize": 269599158
+      },
+      "optional": true,
+      "domainName": "cyberpunk2077",
+      "enabled": false,
+      "version": "0.27-1",
+      "category": {
+        "id": 10,
+        "name": "Visuals and Graphics"
+      }
+    },
+    {
+      "name": "WTNC Config",
+      "source": {
+        "modId": 10426,
+        "fileId": 174405,
+        "logicalFilename": "WTNC Config",
+        "fileSize": 9223543
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "2.0.0.2",
+      "category": {
+        "id": 2,
+        "name": "Miscellaneous"
+      },
+      "choices": {
+        "type": "fomod_selections",
+        "selections": {
+          "0": {
+            "Choose Your Experience": [
+              "Cyberpunk THING"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "name": "EulaliaWorks Wardrobe Catalog V0.2.1v",
+      "source": {
+        "modId": 37148,
+        "fileId": 177118,
+        "logicalFilename": "EulaliaWorks Wardrobe Catalog V0.2.1v",
+        "fileSize": 28812
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "0.2.1v",
+      "category": {
+        "id": 9,
+        "name": "Utilities"
+      },
+      "choices": {
+        "type": "fomod_selections",
+        "selections": {}
+      }
+    },
+    {
+      "name": "NightCoop EquipmentEX Compatibility",
+      "source": {
+        "modId": 37148,
+        "fileId": 173301,
+        "logicalFilename": "NightCoop EquipmentEX Compatibility",
+        "fileSize": 9288334
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1.25",
+      "category": {
+        "id": 9,
+        "name": "Utilities"
+      },
+      "choices": {
+        "type": "fomod_selections",
+        "selections": {}
+      }
+    },
+    {
+      "name": "MCM Night Coop Patch",
+      "source": {
+        "modId": 37145,
+        "fileId": 173138,
+        "logicalFilename": "MCM Night Coop Patch",
+        "fileSize": 56788
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "1",
+      "category": {
+        "id": 7,
+        "name": "Gameplay"
+      }
+    },
+    {
+      "name": "EulaliaWorks Apparel LOD0 V0.2.1V",
+      "source": {
+        "modId": 37148,
+        "fileId": 177106,
+        "logicalFilename": "EulaliaWorks Apparel LOD0 V0.2.1V",
+        "fileSize": 2751
+      },
+      "optional": false,
+      "domainName": "cyberpunk2077",
+      "version": "0.2.1",
+      "category": {
+        "id": 9,
+        "name": "Utilities"
+      },
+      "choices": {
+        "type": "fomod_selections",
+        "selections": {}
+      }
+    }
+  ],
+  "modlistSeparators": [
+    {
+      "name": "COOP Mods_separator",
+      "mods": [
+        "EulaliaWorks Apparel LOD0 V0.2.1V",
+        "MCM Night Coop Patch",
+        "NightCoop EquipmentEX Compatibility",
+        "EulaliaWorks Wardrobe Catalog V0.2.1v"
+      ]
+    },
+    {
+      "name": "Project Ultrapunk - Required Files_separator",
+      "mods": [
+        "WTNC Config"
+      ]
+    },
+    {
+      "name": "Extra Mods_separator",
+      "mods": [
+        "VehicleGlassRain 0.27 Release CP 2077 V2.5",
+        "RainCamera V1.0.1 CP2077 2.50",
+        "David Sandevistan 1.1 (2.5)",
+        "VolumetricDriftSmoke 1.1",
+        "Cyber Vehicle Overhaul - Version 2.1",
+        "Better Windows",
+        "They Will Remember",
+        "Fighting Gangs Allowed - Reasonable Police",
+        "Lean Anywhere 1.1",
+        "Sit Anywhere 1.4",
+        "Semi-automatic Transmission",
+        "Dynamic Downforce - Model R",
+        "Limited Slip Differential",
+        "Slope Traction Factor 2.31",
+        "True Grip All in One",
+        "Baby Driver V2.0",
+        "Cyber Drift 2.0 for game ver. 2.31",
+        "Better Bike Overhaul",
+        "Nulled Angle Correction",
+        "Dynamic Gravity Modifier 2.0",
+        "Dark Future",
+        "Judy Flirts on Dates",
+        "Judy Romance Messages Mod",
+        "Color Picker For Mod Settings 0.1.4 (2.5)",
+        "Audio Tool For Mod Settings 0.2.3 (2.5)",
+        "Showerpunk2077",
+        "ITP TFPC Compatibility Fix",
+        "True First Person Camera 2.0",
+        "Immersive Third Person - Best Of Both Worlds V2",
+        "CinematicImpactFX Settings 0.8.4",
+        "GoreRunner",
+        "RelentlessLiveDismember",
+        "RagdollPunk Full",
+        "Respect Your Weapon",
+        "Sandevistan Aiming Blocked Fix",
+        "Sandevistan Tech Charge Fix",
+        "Extra Stats",
+        "Sandevistan Helper",
+        "QuickMelee Sandevistan Fix",
+        "V Voice Framework",
+        "V For Vibrant",
+        "Step Up Anywhere",
+        "Vault Anywhere",
+        "Climb Anywhere",
+        "Modded Save Loading Screen Fix",
+        "Immersive Voice Distance (2.5) - Quest Full Fade",
+        "Crowd Voice Unlocked",
+        "Mugen - Unique Silenced M 76e Omaha",
+        "Pistol Pack 3 All Weapons and Attachments",
+        "Pistol Pack 2 - All Guns and Suppressors",
+        "PreHUD DOF ElevatorHotfix",
+        "PreHUD Camera V0.7.0 CP2077 2.50",
+        "RayTracedV Reflections And Shadows",
+        "Jab Begone - Scar Tissue",
+        "Cookedprefabs Nulled",
+        "Preem Hair (4K)",
+        "Flashback Fixer-16236-1-3-fix",
+        "Praedy's 77 night sky - Moon 8K",
+        "NewGamePlus_1.4.1",
+        "evoLUT 5",
+        "evoLUT Switcher 3 - LUT Pack",
+        "SG Env",
+        "Atmos2077 1.5.1",
+        "4K Normal Maps (Netwatch Arms)",
+        "Netwatch Arms - Required Files",
+        "Takemura Hand Cyberware",
+        "Lee Ward Hands - Required Files",
+        "Universal Raytraced Player Shadows",
+        "Decorative Launcher Arms - Required Files",
+        "Kurt Hansen Arms - 4K Normal Maps",
+        "Kurt Hansen Arms - Required Files",
+        "Cyberware Injector",
+        "KiasuBurger Cyberware Core",
+        "(REDMOD) NCA-Lite Low Density 2.3.1",
+        "Lumen 1.0",
+        "Expanded Dual Wielding",
+        "Treason And Defy - Iconic Nue",
+        "NueReaver",
+        "Set Bonuses 2.5.1",
+        "Overclocked Lynx Paws",
+        "XUtils",
+        "NCPDRadio_OnFoot-20188-v0",
+        "Mod Configuration Menu",
+        "ESDE",
+        "Black Chrome",
+        "davidsapogee-16784-v2",
+        "knifeAnimation",
+        "Malorian Arms 3516 - Slide Fix",
+        "Malorian Arms 3516 - Pre2.0 ADS Speedx1.5",
+        "Plan C",
+        "remove unremovable scopes",
+        "Stealthrunner",
+        "Damage Scaling and Balance - Extended",
+        "GLEIPNIR",
+        "React To Horn",
+        "SynthDose",
+        "Damage Scaling",
+        "Borg Malorian",
+        "ALL VANILLA PANTS - SKIRTS - SHORTS FOR THE BIG BOOTY",
+        "Hyst_Refit_ForcedBigBooty",
+        "FPP Hands Clipping Fix",
+        "RenderPlaneFix",
+        "Stock Market and News System 1.4",
+        "E3 Smart Windows 1.2",
+        "InformativeHealthbar",
+        "E3QuestCompass",
+        "Project E3HUD-EX",
+        "E3X",
+        "ProjectE3-HUD-Tweaks(Do Not Enable)",
+        "Project E3 HUD  - E3 UI Scanner compatibility Fix(NOPE)",
+        "Project E3 - UI-13854-2-21-a(NUH UH)",
+        "Project E3 - HUD-8800-2-31-p2",
+        "Vendor Search",
+        "Native Interactions Framework 1.1.5",
+        "The Community Palette Project",
+        "NeuroMultilayerMaterialXtender-2.2.1.zip",
+        "BrowserExtensionFramework",
+        "RedWindows",
+        "Redscript Config Framework",
+        "RedLogger",
+        "RedFunctions",
+        "DigitalVixenCore",
+        "Base Fists and Arm Cyberware Attack Speed Fix",
+        "ReflexIsCool",
+        "Calf Knife Holster",
+        "707 Tactical Atelier",
+        "707 Tactical Drop Holsters (Update)",
+        "The RVC00N Dumpster 2",
+        "Second Amendment Jacket - Vanilla Body (M-F) (GS)",
+        "Sandevistan to Wear",
+        "Jackie's Jacket",
+        "The RVC00N Dumpster 3",
+        "Korben's Jacket",
+        "Raetelier 3",
+        "Cross Hoodie and Top",
+        "Novawear Pants - Main File",
+        "Subleader Virtual Atelier",
+        "Valby Outfit - Archive XL",
+        "NolaXVeegeeXAquelyras_lethal_outfit_FemV",
+        "NolaXVeegee_feminine_store",
+        "NolaxVeegee_Rough_outfit_FemV",
+        "Casual Style Outfit Pt11 - Base File",
+        "Casual Style Outfit Pt18 - Main",
+        "Casual Style Outfit Pt22 - DA",
+        "Casual Style Outfit Pt23 - Both V",
+        "Casual Style Outfit Pt35",
+        "Casual Style Outfit Pt8 Vanilla Arms - Both V",
+        "NC Fashion Virtual Atelier 4805 10.1.k 2026-10-20T17-44Z q7jg7ffio",
+        "Dusty Virtual Atelier",
+        "Zenitex Virtual Atelier",
+        "Virtual Atelier",
+        "Dave X Veegee Casual Style Full Outfit Pt2",
+        "Maniekk X Vegee Casual Style Outfit Pt5_vanilla_ar",
+        "Veegee Harley Outfit",
+        "void_Claires_Shoulder_Bag",
+        "void_Modular_Harness",
+        "Casual Style Outfit Pt4 - Vanilla Arms",
+        "Veegee Shop 2",
+        "void_Knife_Holster_Torso",
+        "Tactical Style Outfit Pt3",
+        "void_Techwear_Pants",
+        "Veegee X Efgrank Cyborg Skull Mask",
+        "TQT Atelier",
+        "Judy BD Tuning Gloves - Stickers - TQ",
+        "Judy BD Tuning Gloves - TQ",
+        "Accessory and Jewelry collection - Main File - AiO",
+        "Urban Techwear Outfit - Both V",
+        "raem's atelier store",
+        "Veegee Shop 3",
+        "Cyber Hackclaw Outfit",
+        "Veegee Shop 4",
+        "Visual Holsters",
+        "Armatech MK.1",
+        "Pirate's Booty Atelier",
+        "Fingerless Gloves",
+        "Mask and Scarf",
+        "Veegee Cyber Mask Pt2",
+        "Material and Texture Override (REDmod)",
+        "Zenitex Underwear",
+        "Zenitex Stealthsuit",
+        "Zenitex Sleeveless Turtleneck",
+        "Zenitex Military Backpack",
+        "Zenitex FM12 Respirator",
+        "Zenitex Covert Shoes",
+        "Zenitex Combat T-Shirt",
+        "Zenitex Combat Helmet",
+        "Zenitex Combat Goggles",
+        "Zenitex Combat Gloves",
+        "Zenitex Ballistic Mask",
+        "Zenitex Balaclava Pack",
+        "Zenitex Assault Vest",
+        "The Zenitex Military Store",
+        "Zenitex Tactical Harness",
+        "Zenitex Panam Pants",
+        "Zenitex Combat Pants",
+        "Zenitex Combat Jacket",
+        "Military Combat Boots",
+        "Military Combat Armor",
+        "Military Ballistic Vest",
+        "Zenitex Armor Pads",
+        "Zenitex M50 Gas Mask",
+        "Hide Body Parts - Body Toggles",
+        "Zenitex Covert Leggings",
+        "Zenitex Core Dependency",
+        "void_Rogues_Gloves",
+        "void_Atelier_Store",
+        "void_Knife_Holster_Thigh_widefit",
+        "void_Knife_Holster_Thigh_closefit",
+        "void_Odas_Pants",
+        "void_Outlander",
+        "All Vanilla Clothes Atelier Store-5544-v1",
+        "void_Hood",
+        "XRX CombatWear Archive XL",
+        "DavidsApogee_ChipwareExpansion",
+        "Neuralware - Chipware Expansion",
+        "Casual_Style_Full_Outfit_VTK_small boobs",
+        "CyberBody-RE-TYPE7-VTK",
+        "VTK_head_Sandevistan_tattoo_Overlay",
+        "VTK Vanilla HD - Head",
+        "VTK Vanilla HD - Body"
+      ]
+    },
+    {
+      "name": "UI (Optional)_separator",
+      "mods": [
+        "E3 Minimap Widgets",
+        "Circlemap Widgets",
+        "Limited HUD",
+        "Ultrawide UI Overhaul"
+      ]
+    },
+    {
+      "name": "Vanilla+ Gameplay (Optional)_separator",
+      "mods": [
+        "Disable W-S Keys To Select Dialog Options",
+        "Quick Weapon Upgrades"
+      ]
+    },
+    {
+      "name": "Fixes, QOL & Immersion (Optional)_separator",
+      "mods": [
+        "Immersive Rippers - Dogtown",
+        "Immersive Rippers",
+        "Melee Attack Variety",
+        "LunarPhases",
+        "Cyberpunk Render Tweaks"
+      ]
+    },
+    {
+      "name": "Raytracing only (RT or RT+ mode in Ultra+)_separator",
+      "mods": [
+        "Ray Traced Lighting Fixes",
+        "Improved Vehicle Lights Drawdistance"
+      ]
+    },
+    {
+      "name": "LOD (Disable for Ultra+ Increase Draw Distance)_separator",
+      "mods": [
+        "Always_Best_Quality_Ads For 2.31",
+        "Not So Good Draw Distance"
+      ]
+    },
+    {
+      "name": "LOD_separator",
+      "mods": [
+        "DrawDistanceReImagined"
+      ]
+    },
+    {
+      "name": "Textures (Skin - Optional)_separator",
+      "mods": [
+        "Cyberpunk Ultra Skin v9.2.1 10490 v9.2.1 2026-08-24T22-48Z UQrhQSyNs"
+      ]
+    },
+    {
+      "name": "Textures (12GB+)_separator",
+      "mods": [
+        "Realistic Moon Textures - 2K",
+        "Alternative Hair Material"
+      ]
+    },
+    {
+      "name": "Fixes, QOL & Immersion_separator",
+      "mods": [
+        "Non-Canon Romances Enhanced",
+        "Romanced Enhanced Showers Feature",
+        "Really Want To Stay At Your House - Kerry",
+        "Really Want To Stay At Your House - River",
+        "Really Want To Stay At Your House - Judy",
+        "Really Want To Stay At Your House - Panam",
+        "River Romanced Enhanced",
+        "Romance Hangouts Enhanced",
+        "Panam Romanced Enhanced",
+        "Judy Romanced Enhanced",
+        "Kerry Romanced Enhanced",
+        "Say Something Damn It",
+        "Audible Traffic Radios",
+        "Ping",
+        "Crowd Props Restored",
+        "Crowd Variety Restored",
+        "AudioPoolFix",
+        "Viktor Complete Cyberware Inventory Fix",
+        "Traffic Radio Fix",
+        "Mantis Blades Aerial Takedown Fix - Lethal",
+        "Immersive Explosion Decals",
+        "Readable Shards",
+        "Radioport Fixes",
+        "Stash Search",
+        "More Weapon Filters",
+        "Better Quality Sort",
+        "RoadNameSignFixes DLC",
+        "Named Saves",
+        "Filter Saves",
+        "Sound SFX Fixes",
+        "MapWaypointBugFixes",
+        "Orbital Air Traffic Enhanced",
+        "Ladders Improved - Stamina Fix",
+        "Road Name Sign Colour - All Districts",
+        "Sandevistan Activation Bug Fix",
+        "Need More Smoke - Model H",
+        "3D World Map Fixed - Return of the Ugly Building",
+        "Cutscene Weapon Swapper",
+        "NPC Vehicle Reactions Fixed",
+        "Window Switcher",
+        "Map Nuclear Explosion Fix",
+        "Player underwear removal extended CET",
+        "CET NPC Body Tweaks with Codeware Extensions",
+        "EpistrophyDelamainDespawnFix 1.21",
+        "Cyberpunk Story Quest Fixes",
+        "Nova Optics",
+        "BUICL - Portrait Edition for 2.5",
+        "Speedbumps Begone",
+        "Inventory Adjustments Hub 1.5",
+        "Loot Icons Extension",
+        "Splat Physics 12.0 Beta",
+        "Real Vendor Names",
+        "Numerals Get Commas 17160 v1.2.1 2026-10-28T10-15Z LACBAIv5o",
+        "Night City - Cinematic Loading Screens",
+        "Immersive Timeskip",
+        "Untrack Quest Ultimate",
+        "Replace Weapon Mods",
+        "Quickhack Hotkeys",
+        "Who Was That Again",
+        "NCME - Commerce",
+        "NCME - Core",
+        "Description Revival",
+        "E3 RAMbarfix-22503-E3",
+        "RAMbarfix - ModSettings",
+        "Stats Bar UI Fix",
+        "Database Fixes",
+        "Bolt Shot FX Reset Fix",
+        "Cyberarms Stutter Fix (Scripted)",
+        "Deceptious Quest Core",
+        "Deceptious Bug Fixes",
+        "auto_drive_enhanced",
+        "Immersion Patch - The Hunt quest missing audio restore",
+        "NCART Train Motion Fixes",
+        "Minor Activities Quest Fixes",
+        "Immersive Night City Fixes",
+        "Immersive Night City Fixes CORE",
+        "Quickhack Fixes",
+        "QuestTriggerFixes 1.3 Compatibility",
+        "Decals Flickering Fix",
+        "Visual Effects Fixes",
+        "NPC Actions Fixes",
+        "CET Window Manager 2.1.2"
+      ]
+    },
+    {
+      "name": "Core Visual_separator",
+      "mods": [
+        "RT Contact Shadow Fix For 2.5",
+        "Shift",
+        "More Occluders (ArchiveXL)",
+        "Erebus fix",
+        "Realistic Glass Damage",
+        "ReLUX Plus (Riders on the Storm)",
+        "Burning Tires Black Smoke V1.11",
+        "Exploded Vehicles Smoke Overhaul VFX",
+        "ReFRACT",
+        "Adaptive Traffic Headlights - Nova City config preset",
+        "Adaptive Traffic Headlights",
+        "Kiroshi Optics Night Vision Mod 2.1",
+        "ReImagined",
+        "ReLUX",
+        "Preem Fixes - Cloth - HD Textures",
+        "Preem Fixes - Little China",
+        "General Shadows Fix",
+        "Trash Begone - Floating Debris",
+        "Trash Begone - Bugs",
+        "BlurBegone 2.6.0",
+        "Dirt Begone - 1.3.0d - DLSS",
+        "InplaceSectorsNulled",
+        "LUT Pack - Nova LUT",
+        "LUTSwitcher",
+        "Window Utils",
+        "TheNullifier",
+        "Manually Enhanced Rain FX - No Windows",
+        "Nova Rain - Ripples",
+        "REDGraph"
+      ]
+    },
+    {
+      "name": "Core Dependencies_separator",
+      "mods": [
+        "AudioXL",
+        "Equipment-EX",
+        "Cyberware-EX",
+        "RedFileSystem",
+        "RedData",
+        "Mod Settings v0.2.28 for 2.50",
+        "Native Settings UI Side Menu Add-on",
+        "Native Settings UI 1.97",
+        "Input Loader v0.2.6 for 2.50",
+        "Audioware",
+        "ArchiveXL",
+        "TweakXL",
+        "Codeware",
+        "redscript",
+        "RED4ext",
+        "CET 1.38.1 - Game version 2.5"
+      ]
+    },
+    {
+      "name": "Utilities & Tools_separator",
+      "mods": [
+        "Advanced Crash Reporter"
+      ]
+    }
+  ]
+}
